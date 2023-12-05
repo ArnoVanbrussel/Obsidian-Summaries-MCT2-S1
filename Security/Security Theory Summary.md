@@ -1199,3 +1199,18 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - wie voldoen aan GDPR
 - in welke industriele revolutie zitten we????
 	- antwoord: 4e
+
+**CIA Termen:**
+- Confidentiality (Vertrouwelijkheid)
+- Integrity (Integriteit)
+- Availability (Beschikbaarheid)
+**2 Beveiligingsprincipes:**
+- Something you have
+- Something you are
+- Something you know
+**Beveligingsrisico wordt bepaald door:**
+
+**Risico verlagen:**
+
+**Goeie backup:**
+
