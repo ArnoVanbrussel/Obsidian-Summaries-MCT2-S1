@@ -1214,3 +1214,22 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 **Goeie backup:**
 
+**Uitvoeren pentest logische volgorde:**
+
+**Geen functie van NIST CSF:**
+
+**Welk versleutelingsalgoritme:**
+
+**Wat kenmerkt een goed paswoord:**
+
+**Vertrouwelijke site: HTTPS:**
+- Niet waar
+**Diff helman:**
+
+**Web-beveiliging makkelijk te kraken:**
+
+**wpa2 veilig?:**
+- Niet waar, niets is veilig
+**Waarvoor staat GDPR:**
+- General Data Protection Reg
+****
