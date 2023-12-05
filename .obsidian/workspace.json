@@ -11,8 +11,12 @@
             "id": "d84ba5c04834cff8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Containers/Containers Theory Summary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Containers/Containers Theory Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Containers/Containers Theory Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Containers/Containers Theory Summary.md"
+              }
             }
           },
           {
@@ -147,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "499141b0debad12f",
+  "active": "d84ba5c04834cff8",
   "lastOpenFiles": [
     "README.md"
   ]
