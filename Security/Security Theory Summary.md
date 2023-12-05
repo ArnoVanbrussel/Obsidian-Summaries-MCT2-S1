@@ -1231,5 +1231,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 **wpa2 veilig?:**
 - Niet waar, niets is veilig
 **Waarvoor staat GDPR:**
-- General Data Protection Reg
-****
+- General Data Protection Regulation
+**3 rollen GDPR:**
+**In welke industiële revolutie zitten we:**
+- 4e
