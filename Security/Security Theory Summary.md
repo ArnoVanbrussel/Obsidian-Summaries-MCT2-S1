@@ -1190,15 +1190,12 @@ In summary, viruses attach themselves to legitimate programs and require user in
 2. **Black Hat Hackers:** Typically associated with malicious intent, they break into systems for personal gain, to steal data, disrupt services, or create chaos.
 3. **Grey Hat Hackers:** Fall between white and black hat hackers, sometimes breaking into systems without permission but not necessarily for malicious purposes. They might disclose vulnerabilities to the public or demand payment for revealing flaws.
 # Vragen Hans
-1. - PKI belangrijke elementen te onderscheiden
-    
-    - diffy hellman protocol
-    
-    - is wpa2 veilig
-    - Wpa enterprise veiliger dan personal?
-    - waarvoor staat GDPR
-    - 3 rollen GDPR
-    - wie voldoen aan GDPR
-    - in welke industriele revolutie zitten we????
-    antwoord: 4e
- beeiligings risico word bepaald door Risico te verlagen Goeie backup Uitvoeren pentest logische volgorde 2 beqeegreden zen er om security are doen Geen functie van niet css Warrior staat siem Laatset stap picerl Wat is css Passend algoritme Wat kenmerkt goed wachtwoord Vertrouwelijke site https -> niet waar Bij pil wel x509 genoemd zijn de volgende belangrijke elementen te onderscheiden ca … verleent .. voor gebruik dienste…. Diff helman Wet-beveiliging makkelijk te kaken wpa2 veilig? -> onwaar niks is veilig Waarvoor staat gdpr 3 strategie aan die de gdpr voorspelt 3 rollen gdpr Voldoen aan gdpr In welke industriële revolutie zitten we momenteel -> 4e
+- PKI belangrijke elementen te onderscheiden
+- diffy hellman protocol
+- is wpa2 veilig
+- Wpa enterprise veiliger dan personal?
+- waarvoor staat GDPR
+- 3 rollen GDPR
+- wie voldoen aan GDPR
+- in welke industriele revolutie zitten we????
+	- antwoord: 4e
