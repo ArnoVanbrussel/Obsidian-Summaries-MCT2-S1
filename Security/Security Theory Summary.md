@@ -379,7 +379,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - risk acceptance
 - risk avoidance
 - risk mitigation
-- risk transferance
+- risk transference
 - ignore it
   => Risk management
 
