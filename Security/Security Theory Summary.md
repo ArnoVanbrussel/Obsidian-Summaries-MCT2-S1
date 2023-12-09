@@ -1155,19 +1155,27 @@ In summary, viruses attach themselves to legitimate programs and require user in
 		- Only 1 machine of that kind
 		- What if functionality breaks
 		- Reboot = downtime = no go
-	- Now - Next - Never strategie
+	- Now - Next - Never strategy
 		- Now : exposure is large
 			- Install ASAP
 		- Next : exposure is small
 			- Plan for next maintenance window
-		- Never : no exposure or unimportan
+		- Never : no exposure or unimportant
+			- Never install
+		- (This needs to be personalized)
 
 ### Purdue Model
 >   The Purdue Enterprise Reference Architecture (PERA), also known as the Purdue Model, is a reference model used in industrial control systems (ICS) and manufacturing environments to organize and secure network architectures. It provides a framework for designing and implementing secure and segmented networks within industrial environments.
 
-**Level0: Process**
+**Level 0: Process**
+> Lowest level, where physical processes occur. It includes sensors, actuators and other devices that interact directly with the physical process, such as manufacturing machinery, pumps, sensors and motors.
+
 **Level 1: Basic Control**
+> At this level, basic control functions occur. It involves devices like PLCs and RTUs (Remote Terminal Units) that monitor and control the physical processes in real time.
+
 **Level 2: Supervisory Control**
+> Supervisory co
+
 **Level 3: Manufacturing Operations**
 **Level 4: Business Planning and Logistics**
 ![[Pasted image 20231209112532.png]]
