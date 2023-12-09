@@ -1217,8 +1217,23 @@ In summary, viruses attach themselves to legitimate programs and require user in
 **Uitvoeren pentest logische volgorde:**
 
 **Geen functie van NIST CSF:**
+*Onderstaande zijn WEL functies:*
+1. Risicob
 
 **Welk versleutelingsalgoritme:**
+*Minst naar meest veilig (1: minst - 12: meest):*
+1. MD5
+2. SHA2
+3. DES
+4. IDEA
+5. CAST-128
+6. Blowfish
+7. Triple DES
+8. RSA
+9. ECC
+10. AES / Rijndael
+11. Diffie-Hellman
+12. PKI
 
 **Wat kenmerkt een goed paswoord:**
 - strength = entropy = length
