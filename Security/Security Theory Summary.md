@@ -1452,8 +1452,20 @@ In summary, viruses attach themselves to legitimate programs and require user in
 		- Improvements (RE.IM)
 		- Communications (RE.CO)
 #### Wat mag een beheerder doen?
-- CAO 81: *"Controle van internet- en emailgebruik op het werk"*
-	- 
+- CAO 81: *"Controle van internet- en e-mailgebruik op het werk"*
+- Controle moet een gerechtvaardigd doel nastreven:
+	- Voorkomen van ongeoorloofde of lasterlijke feiten
+	- Bescherming van economische belangen van de onderneming
+	- Veiligheid en/of goede technische werking van de IT-netwerksystemen v/d onderneming
+	- Te goeder trouw naleven van de in de onderneming geldende beginselen en regels
+- Controle moet transparant zijn
+- Werknemers moeten voldoende ingelicht zijn over alle aspecten v/d controle
+- Controle mag geen inmenging in het privéleven v/d werknemer tot gevolg hebben
+- Alleen globale gegevens mogen worden verzameld
+- Individualisering van gegevens in principe niet toegestaan
+	- Uitzonderingen:
+		- Na vaststellingen van een onregelmatigheid en wanneer:
+			- Het voorkomen van v/d feiten streidig zijn met goede zeden of waardigheid
 
 # 12 Examenvragen
 ## Something you know + something you have + something you are
