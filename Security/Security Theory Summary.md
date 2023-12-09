@@ -1125,6 +1125,21 @@ In summary, viruses attach themselves to legitimate programs and require user in
 ![[Pasted image 20231209110506.png]]
 2. Asset inventory
 	- *"Can this happen to us?"*
+	- Start manually
+	- Communicate usage
+	- Automate
+3. Do NOT use standard passwords
+	- SCADAPASS
+	- ABB
+	- Beckhoff
+	- Digi
+	- eWon
+	- ...
+4. Secure Remote Access
+- IEC 62443
+	- Asset owner
+	- System integrator
+	- Product supplier
 
 
 
