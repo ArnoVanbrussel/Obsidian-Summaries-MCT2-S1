@@ -1019,7 +1019,16 @@ In summary, viruses attach themselves to legitimate programs and require user in
 4. **Specifieke doelen:**
 > Het doel van Stuxnet was om centrifuges te verstoren die worden gebruikt voor de verrijking van uranium in Iran, waarbij de snelheid van deze centrifuges veranderede zonder dat de operators dat merkten
 
+#### Voorbeelden
+**DEC 2014: German Steelmill**
+![[Pasted image 20231209103056.png]]
+**MAR 2019: Cyber-attack on Hydro**
+>*"It is still unclear how extensive the damage is from the cyber attack. According to the spokesperson, the comany's focus is now on ensuring staff safety."*
 
+**JAN 2020: Picanol**
+- General ransomware, presumably through China factory
+- Worldwide IT systems and productions systems victim
+- Imact: no productio
 # 11 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
