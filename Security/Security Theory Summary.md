@@ -1286,10 +1286,30 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - IP-adres
 ##### Principes van GDPR
 ![[Pasted image 20231209131534.png]]
-![[Pasted image 20231209131552.png]]
 
+##### 3 Rollen van de GDPR
+1. **Data Subjects:**
+	- EU burgers waarover persoonsgegevens worden verzameld
+1. **Data Controllers:**
+	- Bedrijven of instanties die persoonsgegevens opslaan
+2. **Data Processors:**
+	- Bedrijven of instanties die persoonsgegevens gebruiken om te verwerken
+![[Pasted image 20231209131804.png]]
 
+**Rechten van Data Subjects:**
+- Recht op correcties
+- Strengere goedkeuringsvereisten
+- Het recht om vergeten te worden
+- Mogelijkheid tot draagbaarheid van gegevens
+- Verwittiging bij gegevens in gevaar
+- 'Privacy By Default'
 
+**Verntwoordelijkheden van Data Controllers en Processors:**
+- Verantwoordelijkheid voor schendingen en inbreuken
+- Harde sancties bij niet-naleving
+- Ingebouwde beveiligingsmaatregelen
+- Transparantie in gegevensstroom
+- Gegarandeerde E2E-beveiliging (exchange to exchange)
 
 # 12 Examenvragen
 ## Something you know + something you have + something you are
