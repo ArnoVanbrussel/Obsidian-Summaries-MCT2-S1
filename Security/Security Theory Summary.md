@@ -1145,9 +1145,31 @@ In summary, viruses attach themselves to legitimate programs and require user in
 	- Focus =/= security
 	- Not secure-by-design
 	- Can be secure, but requires effort and expertise
-	- [[Cloud Services Summary#1 Introduction Azure Cloud#p]]
+	- [[#Purdue Model]]
+5. Patching
+	- IT: security patch -> install quickly
+		- Test environment / snapshot / backup / ...
+		- Install
+		- Reboot
+	- OT: availability takes precedence
+		- Only 1 machine of that kind
+		- What if functionality breaks
+		- Reboot = downtime = no go
+	- Now - Next - Never strategie
+		- Now : exposure is large
+			- Install ASAP
+		- Next : exposure is small
+			- Plan for next maintenance window
+		- Never : no exposure or unimportan
 
 ### Purdue Model
+>   The Purdue Enterprise Reference Architecture (PERA), also known as the Purdue Model, is a reference model used in industrial control systems (ICS) and manufacturing environments to organize and secure network architectures. It provides a framework for designing and implementing secure and segmented networks within industrial environments.
+
+**Level0: Process**
+**Level 1: Basic Control**
+**Level 2: Supervisory Control**
+**Level 3: Manufacturing Operations**
+**Level 4: Business Planning and Logistics**
 ![[Pasted image 20231209112532.png]]
 
 
