@@ -1216,9 +1216,14 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 **Uitvoeren pentest logische volgorde:**
 
+
 **Geen functie van NIST CSF:**
 *Onderstaande zijn WEL functies:*
-1. Risicob
+1. **Risicobeheer**: Het CSF helpt organisaties bij het identificeren, beoordelen en beheren van cybersecurityrisico's door middel van een risicogebaseerde aanpak. Het moedigt organisaties aan om risico's te begrijpen, te prioriteren en erop te reageren om de beveiliging te versterken.
+2. **Cybersecurityframework**: Het framework biedt een structuur van kernactiviteiten, categorieën en subcategorieën die organisaties kunnen gebruiken als leidraad om hun cybersecurity te verbeteren. Het is flexibel en aanpasbaar aan verschillende bedrijfs- en sectorale behoeften.
+3. **Inzicht in cybersecurity**: Het CSF helpt organisaties om een beter begrip te krijgen van hun huidige cybersecuritypositie door hen in staat te stellen hun activiteiten te evalueren en te meten aan de hand van de kernfuncties, categorieën en subcategorieën.
+4. **Communicatie en samenwerking**: Het framework vergemakkelijkt de communicatie tussen interne en externe belanghebbenden over cybersecuritykwesties door een gemeenschappelijke taal en referentiepunt te bieden. Dit stimuleert ook samenwerking binnen en tussen organisaties om cyberdreigingen effectiever aan te pakken.
+5. **Continue verbetering**: Het CSF moedigt organisaties aan om een proces van continue verbetering van hun cybersecurity in te voeren door regelmatige evaluaties, aanpassingen en updates uit te voeren op basis van veranderende risico's en bedreigingslandschappen.
 
 **Welk versleutelingsalgoritme:**
 *Minst naar meest veilig (1: minst - 12: meest):*
