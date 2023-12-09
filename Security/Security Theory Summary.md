@@ -738,9 +738,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
     - ="Certificate"
 ![[Pasted image 20231030171853.png]]
 ![[Pasted image 20231030171923.png]]
-
 ## Certificate properties
-
 - Serial number
   - Distinguishes certificate from others
 - Algorithm information
@@ -753,25 +751,19 @@ In summary, viruses attach themselves to legitimate programs and require user in
   - Name of identity to which certificate is issued
 - Subject public key info
   - public key associated with identity
-    ![[Pasted image 20231030172137.png]]
-
+![[Pasted image 20231030172137.png]]
 ## Crypto Algoritmes
-
 - Shneier's Law:
   “Anyone, from the most clueless amateur to the best cryptographer, can create an algorithm that he himself can't break. It's not even hard. What is hard is creating an algorithm that no one else can break, even after years of analysis. And the only way to prove that is to subject the algorithm to years of analysis by the best cryptographers around.”
-- •http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
-
+- http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
 ## Veilige websites
-
 - HTTPS
   - veilige verbindingen (SSL)
 - HTTP
   - onveilige verbindingen
 - Ook kwaadwillige sites kunnen https gebruiken
-- SSL beteknd dat gegevens niet kunnen worden afgeluisterd
-
+- SSL betekend dat gegevens niet kunnen worden afgeluisterd
 ### Praktisch gebruik
-
 - SSL certificaten
 - email versleutelen
 - email afzender identificatie
@@ -781,35 +773,26 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - checksum <> hashing
 - CRC is OK voor foutcontrole, niet voor authenticatie
 - vb: check op rekeningnummers
-
 # 7 Availability
-
 - High availability op netwerkniveau
 - High availability systemen
 - Clusters
 - Redundante servers
 - Redundante server ruimte (disaster center)
 - Virtualisatie
-
 ## Externe netwerk bedreigingen
-
 ### Denial of Service (DoS)
-
 - E-mail bommen
 - Repetitive login
 - SYN-Flood
-- UDP-flodding
+- UDP-flooding
 - Ping of death
-
-### Disitrubuted DoS (DDoS)
-
+### Distributed DoS (DDoS)
 - DoS simultaan vanuit verschillende locaties
 - Zeer moeilijk tegen te houden
 - Meestal zijn de "drones" geïnfecteerde thuis-PC's
-  ![[Pasted image 20231130152043.png]]
-
+![[Pasted image 20231130152043.png]]
 ### Spoofing
-
 > Vervalsen van informatie in de header
 
 - IP Spoofing
