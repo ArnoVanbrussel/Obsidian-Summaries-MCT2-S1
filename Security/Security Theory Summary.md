@@ -1420,18 +1420,40 @@ In summary, viruses attach themselves to legitimate programs and require user in
 	- Voldoende diepgaand
 
 ### NIST CSF
+![[Pasted image 20231209135458.png]]
 - Prevent
 	- Identify
 		- Asset Management (ID.AM)
-		- 
+		- Business Environment (ID.BE)
+		- Governance (ID.GV)
+		- Risk Assessment (ID.RA)
+		- Risk Management Strategy (ID.RM)
 	- Protect
+		- Awareness Control (PR.AC)
+		- Awareness and Training (PR.AT)
+		- Data Security (PR.DS)
+		- Info Protection and Procedures (PR.IP)
+		- Maintenance (PR.MA)
+		- Protective Technologies (PR.PT)
 - Detect
 	- Detect
+		- Anomalies and Events (DE.AE)
+		- Security Continuous Monitoring (DE.CM)
+		- Detection Process (DE.DP)
 - Respond
 	- Respond
+		- Response Planning (RS.RP)
+		- Communications (RS.CO)
+		- Analysis (RS.AN)
+		- Mitigation (RS.MI)
+		- Improvements (RS.IM)
 	- Recover
-![[Pasted image 20231209135458.png]]
-
+		- Recover Planning (RE.RP)
+		- Improvements (RE.IM)
+		- Communications (RE.CO)
+#### Wat mag een beheerder doen?
+- CAO 81: *"Controle van internet- en emailgebruik op het werk"*
+	- 
 
 # 12 Examenvragen
 ## Something you know + something you have + something you are
