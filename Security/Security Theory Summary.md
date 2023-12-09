@@ -1721,26 +1721,13 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 
 **Uitvoeren pentest logische volgorde:**
-1. **Voorbereiding en scoping:**
-    - Definieer het doel van de test en stel de scope vast: welke systemen, netwerken of applicaties worden getest en welke niet.
-    - Verzamel informatie over het doelwit: IP-adressen, URL's, technische details, architectuur, enz.
-2. **Reconnaissance (Verkenning):**
-    - Verzamel informatie over het doelwit door middel van passieve technieken zoals openbare bronnen, WHOIS-zoekopdrachten, sociale media, enz.
-    - Voer actieve technieken uit zoals portscans, netwerkdetectie om mogelijke kwetsbaarheden te identificeren.
-3. **Scanning:**
-    - Voer gedetailleerde scans uit met tools zoals Nmap, Nessus, OpenVAS om specifieke kwetsbaarheden en open poorten te identificeren op doelsystemen.
-4. **Gaining Access (Toegang verkrijgen):**
-    - Probeer toegang te krijgen tot het doelsysteem of de applicatie door middel van technieken zoals kwetsbaarheidsexploitatie, misconfiguraties, of social engineering (afhankelijk van de test).
-5. **Escalation of Privileges (Privilege Escalation):**
-    - Als toegang is verkregen, probeer dan de rechten en privileges te verhogen om dieper in het systeem te komen en gevoelige informatie te bereiken.
-6. **Post-Exploitation:**
-    - Verken het systeem verder, installeer mogelijk backdoors of toegangspunten voor latere toegang, verzamel gevoelige gegevens, of voer verdere aanvallen uit.
-7. **Rapportage:**
-    - Documenteer alle stappen, kwetsbaarheden, geëxploiteerde paden en aanbevelingen voor verbetering.
-8. **Herstel en beveiligingsaanbevelingen:**
-    - Na de test, bespreek de bevindingen met de eigenaars van het systeem of de applicatie en bied aanbevelingen om de ontdekte kwetsbaarheden te verhelpen en de beveiliging te verbeteren.
-9. **Herhaling:**
-    - Herhaal de pentest regelmatig om de voortgang van de beveiligingsmaatregelen te controleren en ervoor te zorgen dat nieuwe kwetsbaarheden zijn verholpen.
+1. **Reconnaissance**: Verzamelen van info over het doelwit
+2. **Weaponization**: Ontwikkelen v/d tools of methoden gebruikt om binnen te dringen
+3. **Delivery**: Afleveren v/d kwaadaardige payload
+4. **Exploitation**: Daadwerkelijk misbruiken v kwetsbaarheden in het systeem om toegang te krijgen
+5. **Installation**: Installeren van malware of backdoors op het systeem om toegang te behouden
+6. **Command & Control**: Opzetten van een mechanisme waarmee de aanvaller toegang kan krijgen tot het systeem
+7. **Actions on Objectives**: Uitvoeren van specifieke acties die de aanvaller wil bereiken
 
 **Geen functie van NIST CSF:**
 *Onderstaande zijn WEL functies:*
