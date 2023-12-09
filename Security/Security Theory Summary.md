@@ -1224,7 +1224,11 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 **Vertrouwelijke site: HTTPS:**
 - Niet waar
-**Diff helman:**
+**Diff-Helman Key Exchange:**
+- Mathmatical method of securely exchanging cryptographic keys over a public channel.
+- 
+![[Pasted image 20231209093251.png]]
+
 
 **Web-beveiliging makkelijk te kraken:**
 
