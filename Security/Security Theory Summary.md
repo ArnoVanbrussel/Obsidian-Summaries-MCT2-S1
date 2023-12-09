@@ -1408,7 +1408,30 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - èthos = grieks: gewoonte of zedelijke handeling
 - Wat is de uiteindelijke norm voor het menselijk handelen?
 	- In context: Wat is geoorloofd gedrag voor wat betreft persoonsgegevens
-### Acc
+### Acceptable Use Policy (AUP)
+- Document met regels wat je als werkgever aanvaardbaar vindt
+- Geeft vaak de indruk de gebruiker te willen beperken
+- Probeert een balans te vinden tussen acceptabel risico en bruikbaarheid
+- Is noodzakelijk om de systemen beheerbaar te houden
+- Dient steeds strikt te worden opgevolgd
+### Frameworks
+- Maak gebruik van frameworks (zoals [[#NIST CSF]]) om de inhoud van AUP te bepalen
+	- Voldoende breed
+	- Voldoende diepgaand
+
+### NIST CSF
+- Prevent
+	- Identify
+		- Asset Management (ID.AM)
+		- 
+	- Protect
+- Detect
+	- Detect
+- Respond
+	- Respond
+	- Recover
+![[Pasted image 20231209135458.png]]
+
 
 # 12 Examenvragen
 ## Something you know + something you have + something you are
