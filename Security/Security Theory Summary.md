@@ -1089,7 +1089,37 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Pragmatic approach with best-practices
 
 **4 phases in OT security improvement**
-1. A
+1. Assessment
+	- What is the current situation and what must we improve
+2. Development and Implementation
+	- Define and prioritize tasks. 
+	- Implement improvements
+3. Maintenance
+	- Make sure your earlier efforts don't go to waste
+4. Continuous improvement
+	- Kaizen (=Change for better in japanese)
+	- Every experience is a learning experience
+![[Pasted image 20231209105727.png]]
+
+#### 1. Assessment
+> *One cannot protect what one does not know*
+
+1. Assemble team
+2. Determine scope
+3. Map the system
+	- Architecture diagrams
+	- Network diagrams
+	- HW asset inventory
+	- SW asset inventory
+4. Vulnerability assessment
+5. Create zones & conduits
+6. Perform security risk assessment
+
+**Risk analysis**
+-
+
+
+
 
 # 11 Examenvragen
 ## Something you know + something you have + something you are
