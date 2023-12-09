@@ -1245,15 +1245,21 @@ In summary, viruses attach themselves to legitimate programs and require user in
 		- Willen (Risico)
 #### Wat is de GDPR
 - Europese regelgeving om databeveiliging te versterken en te uniformiseren doorheed de EU
-- EU: 27 lidstaten
-	- België
-	- Bulgarije
-	- Cyprus
-	- Denemarken
-	- Duitsland
-	- Estland
-	- Finland
-	- Frankr
+
+
+
+| EU | 27 | Lidstaten |  
+| -------- | -------- | -------- |  
+| België | Bulgarije | Cyprus |  
+| Denemarken | Duitsland | Estland |
+| Finland | Frankrijk | Griekenland |
+| Hongarije | Ierland | Italië |
+| Kroatië | Letland | Litouwen |
+| Luxemburg | Malta | Nederland |
+| Oostenrijk | Polen | Portugal |
+| Roemenië | Slovenië | Slowakije |
+| Spanje | Tsjechië | Zweden |
+
 
 # 12 Examenvragen
 ## Something you know + something you have + something you are
