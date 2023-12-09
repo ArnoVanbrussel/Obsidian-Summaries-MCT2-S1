@@ -1208,9 +1208,17 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Something you have
 - Something you are
 - Something you know
+
 **Beveligingsrisico wordt bepaald door:**
+- Vulnerability
+- Threat
+- Counter Measure Score
+- Valuation
 
 **Risico verlagen:**
+- Increase Counter measure score
+- Decrease Vulnerability
+![[Pasted image 20231029163747.png]]
 
 **Goeie backup:**
 *3-2-1 Regel:*
@@ -1279,7 +1287,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
   - logged
 
 **Vertrouwelijke site: HTTPS:**
-- Niet waar
+- Niet waar, iedereen kan een HTTPS certificaat aanvragen
 
 **Diff-Helman Key Exchange:**
 - Mathmatical method of securely exchanging cryptographic keys over a public channel.
@@ -1288,8 +1296,8 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 ![[Pasted image 20231209093251.png]]
 
-
 **Web-beveiliging makkelijk te kraken:**
+*IDK, someone *
 
 **wpa2 veilig?:**
 - Niet waar, niets is veilig
