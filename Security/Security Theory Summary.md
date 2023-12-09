@@ -1163,6 +1163,18 @@ In summary, viruses attach themselves to legitimate programs and require user in
 		- Never : no exposure or unimportant
 			- Never install
 		- (This needs to be personalized)
+#### Maintenance
+*Gaat hij niet dieper op in*
+#### Continuous Improvement
+*Gaat hij niet dieper op in*
+
+## Where to start
+### 1 Asset Inventory
+- Hardware verbonden met je OT netwerk
+	- PLCs, HMIs, ....
+
+
+
 
 ### Purdue Model
 >   The Purdue Enterprise Reference Architecture (PERA), also known as the Purdue Model, is a reference model used in industrial control systems (ICS) and manufacturing environments to organize and secure network architectures. It provides a framework for designing and implementing secure and segmented networks within industrial environments.
@@ -1183,7 +1195,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 > At the highest level, business planning and logistics systems are located. It involves enterprise-level systems for resource planning, inventory management and business analytics
 
 **Level 5: Enterprise Network**
-> This level represents the integration of the ICS (Industrial Control System)
+> This level represents the integration of the ICS (Industrial Control System) networks with the corporate IT network or the enterprise level network. This level signifies the connection between the OT environment and the IT environment
 
 ![[Pasted image 20231209112532.png]]
 
