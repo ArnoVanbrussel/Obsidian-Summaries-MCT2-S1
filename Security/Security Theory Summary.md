@@ -1399,9 +1399,16 @@ In summary, viruses attach themselves to legitimate programs and require user in
 	- Bv.: Citrix, sharefile
 - **Document Encryption**
 	- Azure Information Protection
-##
-
-
+#### Straffe uitspraken
+***Certified GDPR Compliant***
+- *awarded the ISO 17024-accredited EU GDPR Practitioner (EU GDPR P) qualification by IBITGQ*
+	- Bullshit: nog geen officiële certificatie in BE
+## Deel 2: Ethics
+### Wat is Ethiek
+- èthos = grieks: gewoonte of zedelijke handeling
+- Wat is de uiteindelijke norm voor het menselijk handelen?
+	- In context: Wat is geoorloofd gedrag voor wat betreft persoonsgegevens
+### Acc
 
 # 12 Examenvragen
 ## Something you know + something you have + something you are
