@@ -670,7 +670,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Blowfish
   - variabele sleutellengte
 ## Assymetrische Encryptie
-
 - Public key encryptie
   - RSA, ECC
 - Geheimhouding
@@ -678,24 +677,17 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Werkt met sleutelPAREN
   - private en publieke sleutel
 - Zeer berekeningsintensief
-
 ## Hashing
-
 - Message Digest
   - MD5, SHA2
 - Variabele inputlengte
 - Vaste outputlengte
 - Kleine inputvariatie resulteert in grote outputvariatie
 - Niet reversibel
-
 ## Diffie-Hellman Exchange
-
 - Uitwisselen van een shared secret (key)
-  ![[Pasted image 20231030170555.png]]
-  ![[Pasted image 20231030170850.png]]
-
+![[Pasted image 20231030170555.png]]![[Pasted image 20231030170850.png]]
 ## PKI
-
 - Public Key Infrastructure
   - Encryption of data in transit
     - Key exchange
