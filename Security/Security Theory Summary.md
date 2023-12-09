@@ -1224,9 +1224,12 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 **Vertrouwelijke site: HTTPS:**
 - Niet waar
+
 **Diff-Helman Key Exchange:**
 - Mathmatical method of securely exchanging cryptographic keys over a public channel.
-- 
+> The process begins by having the two parties, [Alice and Bob](https://en.wikipedia.org/wiki/Alice_and_Bob "Alice and Bob"), publicly agree on an arbitrary starting color that does not need to be kept secret. In this example, the color is yellow. Each person also selects a secret color that they keep to themselves – in this case, red and cyan. The crucial part of the process is that Alice and Bob each mix their own secret color together with their mutually shared color, resulting in orange-tan and light-blue mixtures respectively, and then publicly exchange the two mixed colors. Finally, each of them mixes the color they received from the partner with their own private color. The result is a final color mixture (yellow-brown in this case) that is identical to their partner's final color mixture.
+![[Pasted image 20231209093656.png]]
+
 ![[Pasted image 20231209093251.png]]
 
 
@@ -1234,8 +1237,18 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 **wpa2 veilig?:**
 - Niet waar, niets is veilig
+
 **Waarvoor staat GDPR:**
 - General Data Protection Regulation
+
 **3 rollen GDPR:**
+- **Data Controller (Gegevensbeheerder)**
+> Dit is de entiteit die het doel en de middelen van de verwerking van persoonsgegevens bepaalt. Deze rol is verantwoordelijk voor het naleven van de GDPR-voorschriften, het verkrijgen van toestemming van individuen voor gegevensverwerking, het waarborgen van de veilige verwerking van gegevens en het faciliteren van de rechten van betrokkenen.
+- **Data Processor (Gegevensverwerker)**
+> Dit is een partij die namens de gegevensbeheerder persoonsgegevens verwerkt. Ze moeten strikte richtlijnen volgen, zoals vastgelegd door de gegevensbeheerder, en mogen de gegevens alleen verwerken binnen de vastgestelde grenzen. De gegevensverwerker is verantwoordelijk voor het waarborgen van de veiligheid van de gegevens en moet de gegevens alleen verwerken zoals overeengekomen met de gegevensbeheerder.
+- **Supervisory Authority (Toezichthoudende autoriteit)**
+> Dit is een onafhankelijk orgaan dat verantwoordelijk is voor het handhaven van de GDPR en toezicht houdt op de naleving ervan. Elke EU-lidstaat heeft zijn eigen toezichthoudende autoriteit. Deze autoriteiten hebben de bevoegdheid om boetes op te leggen bij inbreuken op de GDPR en kunnen advies en begeleiding bieden aan zowel gegevensbeheerders als gegevensverwerkers.
+
 **In welke industiële revolutie zitten we:**
-- 4e
+- 4e IR
+- 
