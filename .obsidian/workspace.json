@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24dc3295d4593a48",
+        "id": "3af2988d8c15d79d",
         "type": "tabs",
         "children": [
           {
-            "id": "d84ba5c04834cff8",
+            "id": "c0b629950feb34eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d84ba5c04834cff8",
+  "active": "c0b629950feb34eb",
   "lastOpenFiles": [
-    "README.md",
+    "2023-12-09.md",
     "Security/Security Theory Summary.md",
+    "README.md",
     "Security/Assets/Pasted image 20231209135458.png",
     "Security/Assets/Pasted image 20231209133325.png",
     "Security/Assets/Pasted image 20231209132951.png",
