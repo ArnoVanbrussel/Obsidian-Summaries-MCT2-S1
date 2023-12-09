@@ -161,18 +161,18 @@ Examen over:
 
 - Vallen 1 of meerdere 'doelen' aan
 - Kunnen zijn:
-  - Toevallig
-  - Kwaadwillig
+	- Toevallig
+	- Kwaadwillig
 - Gaan uit van:
-  - Agenten (personen of organisaties)
-  - Gebeurtenissen
+	- Agenten (personen of organisaties)
+	- Gebeurtenissen
 - Systeemfouten
 - Gebeurtenissen
-  - Bv.: Brand, Stroomuitval, ...
+	- Bv.: Brand, Stroomuitval, ...
 - Intern
-  - Bv.: Diefstal, Wraak, ...
+	- Bv.: Diefstal, Wraak, ...
 - Extern
-  - Bv.: Hackers, Spionage, ...
+	- Bv.: Hackers, Spionage, ...
 
 ### Phising
 
@@ -181,14 +181,14 @@ Examen over:
 - Impersonation
 - Authentication
 - Oplichting over email
-  - Vaak onwaarschijnlijk verhaal
-  - Herkenbaar aan malafide links
-  - Soms bijzonder moeilijk herkenbaar
+	- Vaak onwaarschijnlijk verhaal
+	- Herkenbaar aan malafide links
+	- Soms bijzonder moeilijk herkenbaar
 - Meest voorkomende vorm van fraude
 - Meest uitgebuite kwetsbaarheid v/e organisatie
 - Spear phishing:
-  - A highly targeted form of cyberattack in which hackers send personalized and deceptive emails to specific individuals or organizations, posing as trusted sources.
-  - It relies on social engineering and extensive research to exploit trust and trick the target into revealing sensitive information or taking harmful actions.
+	- A highly targeted form of cyberattack in which hackers send personalized and deceptive emails to specific individuals or organizations, posing as trusted sources.
+	- It relies on social engineering and extensive research to exploit trust and trick the target into revealing sensitive information or taking harmful actions.
 - Double Barrel Attack
   - Double barrel phishing is a [phishing tactic](https://www.privacysense.net/terms/phishing/) that involves two or several emails where the objective is to establish trust and authenticity so the victim is less likely to doubt or [question the attacker](https://www.itsecurityawareness.ie/glossary/double-barrel-attack).
 - Examples:
