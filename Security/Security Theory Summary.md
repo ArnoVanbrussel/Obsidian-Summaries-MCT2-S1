@@ -1221,6 +1221,13 @@ In summary, viruses attach themselves to legitimate programs and require user in
 **Welk versleutelingsalgoritme:**
 
 **Wat kenmerkt een goed paswoord:**
+- strength = entropy = length
+- complexity = letters, symbols, capitals, numbers, ...
+- No longer considered secure
+  - no password is secure
+  - can be phised
+  - social engineerd
+  - logged
 
 **Vertrouwelijke site: HTTPS:**
 - Niet waar
@@ -1251,4 +1258,4 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 **In welke industiële revolutie zitten we:**
 - 4e IR
-- 
+> Deze revolutie wordt gekenmerkt door de convergentie van digitale, fysieke en biologische systemen, wat leidt tot een enorme verandering in de manier waarop we leven, werken en communiceren.
