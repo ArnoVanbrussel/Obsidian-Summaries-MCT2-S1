@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24dc3295d4593a48",
+        "id": "37fcb3dee62a0c6d",
         "type": "tabs",
         "children": [
           {
-            "id": "d84ba5c04834cff8",
+            "id": "6cebb7f22903ff9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d84ba5c04834cff8",
+  "active": "6cebb7f22903ff9e",
   "lastOpenFiles": [
+    "Containers/Containers Theory Summary.md",
+    "Cloud services/Cloud Services Summary.md",
+    "Advanced Software Engineering/Advanced Software Engineering Summary.md",
     "README.md",
     "Security/Security Theory Summary.md",
     "Security/Assets/Pasted image 20231209135458.png",
@@ -168,7 +171,6 @@
     "Security/Assets/Pasted image 20231209131552.png",
     "Security/Assets/Pasted image 20231209131534.png",
     "Security/Assets/Pasted image 20231209131257.png",
-    "Security/Assets/Pasted image 20231209115239.png",
-    "Containers/Containers Theory Summary.md"
+    "Security/Assets/Pasted image 20231209115239.png"
   ]
 }
