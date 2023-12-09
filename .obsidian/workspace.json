@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6ac33d5caa06b8",
+        "id": "24dc3295d4593a48",
         "type": "tabs",
         "children": [
           {
-            "id": "3a07b775402cc06c",
+            "id": "d84ba5c04834cff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,14 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "499141b0debad12f",
+  "active": "d84ba5c04834cff8",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Security/Security Theory Summary.md",
-    "Cloud services/Cloud Services Summary.md",
-    "Advanced Software Engineering/Advanced Software Engineering Summary.md",
-    "2023-12-09.md",
     "README.md",
+    "Security/Security Theory Summary.md",
     "Security/Assets/Pasted image 20231209135458.png",
     "Security/Assets/Pasted image 20231209133325.png",
     "Security/Assets/Pasted image 20231209132951.png",
