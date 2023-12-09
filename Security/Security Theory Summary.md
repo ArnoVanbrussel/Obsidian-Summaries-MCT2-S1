@@ -1047,9 +1047,26 @@ In summary, viruses attach themselves to legitimate programs and require user in
 ![[Pasted image 20231209104400.png]]
 
 ### A risky story
-*Imagine you live in Norway and are looking to buy a new car*
+*Imagine you live in Norway and are looking to buy a new car, lots of snow and ice. You could crash on the slippery road or you car could be snowed in*
+- Better tires
+- Assistance
+- Insurance
+- ...
 ![[Pasted image 20231209104516.png]]
 
+### Why do cyber criminals do what they do?
+- Almost always: MONEY
+- 1,5 trillion $/yr
+### Why now?
+- OT+IT merging
+- Attacks increasing
+- Targeted malware against OT
+- Legislation
+- Business enabler
+
+> The convergence of these factors has created a climate where cybercrime is not only profitable but also relatively easier to execute due to the increasing connectivity and dependence on digital systems. This makes cybersecurity a critical concern for individuals, businesses, and governments alike.
+
+##
 # 11 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
