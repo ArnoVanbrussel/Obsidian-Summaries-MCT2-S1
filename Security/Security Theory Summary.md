@@ -1317,8 +1317,20 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Schat in de impact van bescherming en risiconiveau
 - Verwittig data subjects over schendingen
 - Werk mee met de toezichthoudende entiteiten
+#### 3 Stragegieën voor bescherming
+1. **Anonimiesatie**
+> Anoniem maken door delen van de informatie te veranderen of weg te laten
 
+2. **Pseudoniemisatie**
+> De informatie splitsen waardoor de persoon niet identificeerbaar is met slechts 1 deel vd informatie
+![[Pasted image 20231209132951.png]]
 
+3. **Toegangscontrole**
+> Toegang tot de informatie controleren en verhinderen met behulp van technische maatregelen
+
+**Pseudoniemisatie vs. Anoniemisatie**
+- Pseudo: Je behoudt de mogelijkheid om personen te identificeren
+- Anon: Je verliest die mogelijkheid (in theorie)
 # 12 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
