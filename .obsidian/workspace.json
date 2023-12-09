@@ -11,8 +11,12 @@
             "id": "3a07b775402cc06c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Security/Security Theory Summary.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud services/Cloud Services Summary.md",
+                "file": "Security/Security Theory Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud services/Cloud Services Summary.md",
+                "file": "Security/Security Theory Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud services/Cloud Services Summary.md"
+                "file": "Security/Security Theory Summary.md"
               }
             }
           },
@@ -153,8 +157,10 @@
   },
   "active": "499141b0debad12f",
   "lastOpenFiles": [
-    "Advanced Software Engineering/Advanced Software Engineering Summary.md",
+    "Untitled.md",
     "Security/Security Theory Summary.md",
+    "Cloud services/Cloud Services Summary.md",
+    "Advanced Software Engineering/Advanced Software Engineering Summary.md",
     "2023-12-09.md",
     "README.md",
     "Security/Assets/Pasted image 20231209135458.png",
