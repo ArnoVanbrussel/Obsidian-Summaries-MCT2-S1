@@ -879,7 +879,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Update site framework, plugins & libs
 - Prepared statements
 - Authenticatie frameworks
-
 # 10 OT Security
 ## 1e Industriële Revolutie
 - Stoommachine
@@ -947,7 +946,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 ![[Pasted image 20231209104337.png]]
 ![[Pasted image 20231209104348.png]]
 ![[Pasted image 20231209104400.png]]
-
 ## A risky story
 *Imagine you live in Norway and are looking to buy a new car, lots of snow and ice. You could crash on the slippery road or you car could be snowed in*
 - Better tires
@@ -955,7 +953,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Insurance
 - ...
 ![[Pasted image 20231209104516.png]]
-
 ## Why do cyber criminals do what they do?
 - Almost always: MONEY
 - 1,5 trillion $/yr
@@ -967,7 +964,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Business enabler
 
 > The convergence of these factors has created a climate where cybercrime is not only profitable but also relatively easier to execute due to the increasing connectivity and dependence on digital systems. This makes cybersecurity a critical concern for individuals, businesses, and governments alike.
-
 ## What is OT security
 
 > OT (Operational Technology) security refers to the practices, measures, and protocols designed to protect industrial control systems (ICS), critical infrastructure, and operational technology environments from cyber threats and vulnerabilities. OT systems are used in sectors like manufacturing, energy, transportation, and utilities to monitor and control physical devices and processes.
@@ -981,7 +977,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 6. Training and Awareness
 
 > OT security measures often differ from traditional IT security due to the unique characteristics of industrial systems, such as legacy devices, longer operational lifecycles, and prioritization of safety and reliability over regular updates, which can pose challenges in maintaining security without disrupting operations. As OT and IT systems increasingly converge, the importance of robust OT security practices becomes even more crucial to protect critical infrastructure from cyber threats.
-
 ### Information Technology vs. Operational Technology (IT vs OT)
 ![[Pasted image 20231209105326.png]]
 ![[Pasted image 20231209105340.png]]
@@ -1069,7 +1064,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 *Gaat hij niet dieper op in*
 #### Continuous Improvement
 *Gaat hij niet dieper op in*
-
 ## Where to start
 ### 1 Asset Inventory
 - Hardware verbonden met je OT netwerk
