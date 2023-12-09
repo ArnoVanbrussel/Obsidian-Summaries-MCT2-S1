@@ -516,11 +516,10 @@ In summary, viruses attach themselves to legitimate programs and require user in
   - Elke dienst die vanaf internet bereikbaar is, mag enkel gebruik maken van versleuteld verkeer en moet beveiligd zijn met MFA
   - Elke 2 jaar moet een penetration test gebeurd
 ## Frameworks
-
 - A supporting structure around which something can be built
-- De ideëen, informatie en principes die de structuur vormen voor een organisatie of plan
+- De ideeën, informatie en principes die de structuur vormen voor een organisatie of plan
 - BV.:
-  - In computer programming, a software framework is an abstraction in which software, providing generic functionality, can be slectively changed by additional user-written code, thus providing application-specific software
+  - In computer programming, a software framework is an abstraction in which software, providing generic functionality, can be selectively changed by additional user-written code, thus providing application-specific software
   - web framework:
     - ASP.NET Core
     - Vue.js
@@ -549,7 +548,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
     •[https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework](https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework)
 
 ## Cyberincident
-
 - Prevent - Detect - Respond
 - NIST CSF
   - Prevent:
@@ -561,20 +559,16 @@ In summary, viruses attach themselves to legitimate programs and require user in
     - Recover
       ![[Pasted image 20231030162308.png]]
 - Safety vs Security
-
 ### Identify
-
 - Identify function = fundering van cybersecurity programma
 - "Je kan niet beveiligen wat je niet kent" => Asset Inventory
-  - Hardware and Software asset inverntory
+  - Hardware and Software 
 - Plaats in de supply chain kennen
-- Spelregels bepalen in lijn met de risicos
+- Spelregels bepalen in lijn met de risico's
 - Kwetsbaarheden bepalen
 - Bedreigingen identificeren
 - Risico's identificeren
-
 ### Protect
-
 - Identity Management & Access Control
   - Logische toegang
   - Fysieke toegang
@@ -594,9 +588,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Processen en procedures invoeren om bescherming op peil te houden
 - Onderhoud
 - Goed beheer van technologie
-
 ### Detect
-
 - Detecteer mogelijke security incidenten binnen aanvaardbare tijd
   - IBM Cost of Data Breach Report
     - Gemiddeld 212 dagen om breach te ontdekken
@@ -612,9 +604,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
   - Network Intrusion Detection Systems (NIDS)
   - Host Intrusion Detection Systems (HIDS)
   - Security Incident and Event Management (SIEM)
-
 ### Respond
-
 - PICERL
   - (Prepare)
     - Ken je risicos
@@ -638,9 +628,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
     - Nog steeds downtime
   - (Recover)
   - (Lessons Learned)
-
 ### Recover
-
 - Recover and Lessons Learned from PICERL
 - Herinstalleer systemen
 - restore van backup
@@ -651,22 +639,17 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - wat kunnen we eruit leren
 - hoe vermijden in toekomst
 - wat anders doen
-
 # 6 Crypto
-
 ## Encryptie
-
 - Geheimhouding
 - Authenticatie
 - Integriteit
 - Nonrepudation
 - Traditionele cryptografie
-  - Subsitutie
+  - Substitutie
   - Transpositie
   - One-time pad
-
 ## Symmetrische Encryptie
-
 - Geheimhouding
 - GEEN authenticatie
 - Eenvoudig
@@ -686,7 +669,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
   - Carlisle Adams and Stafford Tavares
 - Blowfish
   - variabele sleutellengte
-
 ## Assymetrische Encryptie
 
 - Public key encryptie
