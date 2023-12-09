@@ -11,6 +11,8 @@ This Repo contains the md files of theory summaries:
 - Do NOT share the files with non-collaborators of the repo
   Sharing the files with people will result in being denied access
 
+*Tip: In settings>community plugins, you can turn 'Obsidian Git' off to prevent Obsidian from pushing any changes to the repo.*
+
 ## Access
 The files within this repo can be read with Obsidian:
 https://obsidian.md/download
