@@ -1359,9 +1359,25 @@ In summary, viruses attach themselves to legitimate programs and require user in
 	- Multidisciplinair team
 	- Ondersteuning van directie
 	- Budget
-### GDPR en software development
-- Hou rekening met nieuwe recht
-
+#### GDPR en software development
+- Hou rekening met nieuwe rechten van data subjects
+- Probeer rol van Data Processor te vermijden
+#### Recht op vergetelheid
+- Volgens letter vd wet
+> Meer bepaald moeten betrokkenen het recht hebben hun persoonsgegevens te laten wissen en niet verder te laten verwerken … wanneer de betrokkenen hun toestemming hebben ingetrokken of bezwaar maken tegen de verwerking van hun persoonsgegevens, …
+- Wat met backups?
+#### GDPR-Compliancy = multidisciplinaire activiteit
+- Wet en regelgeving
+	- Juridische dienst
+- Persoonsgegevens bij verschillende afdelingen verzameld, bewaard, gebruikt
+	- Business processen
+- Toegangscontrole van in-kaart-gebrachte persoonsgegevens
+	- IT-dienst
+#### Technische Hulpmiddelen
+- **Firewall**
+	- Data Loss Prevention (gateway)
+- **MFA**
+	- Bescherming van inloggegevens
 # 12 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
