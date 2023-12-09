@@ -297,24 +297,19 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Entiteiten waarvan de bedreiging uitgaat
 - In- of Extern aan het bedrijf
 - Kwetsbaarheid voor een agent wordt bepaald door:
-
-  - toegangsniveau
-  - kennis
-  - motivatie
-
+	- toegangsniveau
+	- kennis
+	- motivatie
 - "De ontslagen werknemer"
-
-  - heeft (nog steeds) toegang tot de organisatie
-  - heeft kennis over werking v/d organisatie
-  - heeft sterke negatieve motivatie
-
+	- heeft (nog steeds) toegang tot de organisatie
+	- heeft kennis over werking v/d organisatie
+	- heeft sterke negatieve motivatie
 - "De Hacker"
-
-  - blueprint opgevoerd door media
-  - gebaseerd op reële figuren
-  - vormt een rolmodel voor bepaalde subcultuur
-  - hacker vs cracker
-    - script kiddies / wannabee
+	- blueprint opgevoerd door media
+	- gebaseerd op reële figuren
+	- vormt een rolmodel voor bepaalde subcultuur
+	- hacker vs cracker
+		- script kiddies / wannabee
   - L337 h4xOr 700I$ (Leet Hacker Tools)
   - bedreiging door grote aantallen
   - Hackers met veel kennis
@@ -335,10 +330,8 @@ In summary, viruses attach themselves to legitimate programs and require user in
       - Bug Bounty program
         - security-contacts / disclosure programma's van firma zelf
     - bottom line: a fine line / grijze zone
-
 - "Gebeurtenissen"
-
-  - Brand, stroomuitval, overstroming, diefstal, ...
+	- Brand, stroomuitval, overstroming, diefstal, ...
 
 ## Threat Intelligence
 
@@ -357,8 +350,8 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 ## Technological Evolution
 
-    - Today's technology is the best
-    - It is broken
+- Today's technology is the best
+- It is broken
 
 - MiTM Attack
   - Man in The Middle Attack
