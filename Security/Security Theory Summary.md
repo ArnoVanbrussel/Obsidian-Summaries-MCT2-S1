@@ -728,7 +728,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
   - hash value can be decrypted by anyone using public key of CA
   - certain that hash was authentic as only private key of CA could have encrypted hash that can be decrypted by public key of CA
   - content is hashed, hash is compared with decrypted hash value
-    ![[Pasted image 20231030171715.png]]
+![[Pasted image 20231030171715.png]]
 - PKI - Procedure
   - Generate own public and private key
   - keep private key secure
@@ -736,8 +736,8 @@ In summary, viruses attach themselves to legitimate programs and require user in
     - Generate CSR ( Certificate Signing Request)
   - Publish public key signed by CA
     - ="Certificate"
-      ![[Pasted image 20231030171853.png]]
-      ![[Pasted image 20231030171923.png]]
+![[Pasted image 20231030171853.png]]
+![[Pasted image 20231030171923.png]]
 
 ## Certificate properties
 
