@@ -1174,10 +1174,17 @@ In summary, viruses attach themselves to legitimate programs and require user in
 > At this level, basic control functions occur. It involves devices like PLCs and RTUs (Remote Terminal Units) that monitor and control the physical processes in real time.
 
 **Level 2: Supervisory Control**
-> Supervisory co
+> Supervisory control occurs at this level, where SCADA systems and HMI systems are located. These systems provide operators with a view of the processes and allow them to control and manage operations.
 
 **Level 3: Manufacturing Operations**
+> This level involves functions related to production control, manufacturing operations and data collection for performance monitoring. Functions like MES (Manufacturing Execution Systems) and ERP (Enterprise Resource Planning) systems are typically found here.
+
 **Level 4: Business Planning and Logistics**
+> At the highest level, business planning and logistics systems are located. It involves enterprise-level systems for resource planning, inventory management and business analytics
+
+**Level 5: Enterprise Network**
+> This level represents the integration of the ICS (Industrial Control System)
+
 ![[Pasted image 20231209112532.png]]
 
 
