@@ -1115,8 +1115,17 @@ In summary, viruses attach themselves to legitimate programs and require user in
 5. Create zones & conduits
 6. Perform security risk assessment
 
-**Risk analysis**
--
+#### 2. Development and Implementation
+> Experience shows common steps. Independent from chosen approach (extensive <> pragmatic)
+
+0. Separation between IT and OT
+	- OT only reachable from IT in strictly-controlled way
+	- Firewall, deny-by-default, allow-by-exception
+1. Zones & Conduits
+![[Pasted image 20231209110506.png]]
+2. Asset inventory
+	- *"Can this happen to us?"*
+
 
 
 
