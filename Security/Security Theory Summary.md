@@ -1172,7 +1172,29 @@ In summary, viruses attach themselves to legitimate programs and require user in
 ### 1 Asset Inventory
 - Hardware verbonden met je OT netwerk
 	- PLCs, HMIs, ....
-
+- IP address, asset name, MAC address, hardware version, firmware version, owner/responsible, ...
+- Pitfalls:
+	- TCP/IP stack not fully RFC-compliant
+	- Port scan
+	- Ping of death
+	- Fingerprinting
+- Unknowns
+	- You may find unknown hardware connected
+		- Don't panic
+			- Determine MAC address
+			- Determine vendor ID
+			- Physically locate asset
+			- Managed switches?
+				- Yes: Determine connected switch
+				- No: IP range? vendor? ...
+- Start with HW, add SW
+![[Pasted image 20231209114903.png]]
+### 2 Separate IT and OT
+- Deny-by-default
+- Allow-by-exception
+### 3 Secure Remote Access
+- [[#Purdue Model]]
+### 4 No default passwords
 
 
 
