@@ -1136,10 +1136,20 @@ In summary, viruses attach themselves to legitimate programs and require user in
 	- eWon
 	- ...
 4. Secure Remote Access
-- IEC 62443
-	- Asset owner
-	- System integrator
-	- Product supplier
+	- IEC 62443
+		- Asset owner
+		- System integrator
+		- Product supplier
+	- Be careful with "industrial remote access" devices
+	- Focus = functionality
+	- Focus =/= security
+	- Not secure-by-design
+	- Can be secure, but requires effort and expertise
+	- [[Cloud Services Summary#1 Introduction Azure Cloud#p]]
+
+### Purdue Model
+![[Pasted image 20231209112532.png]]
+
 
 
 
