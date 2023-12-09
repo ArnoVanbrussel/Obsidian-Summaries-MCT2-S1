@@ -1246,7 +1246,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 #### Wat is de GDPR
 - Europese regelgeving om databeveiliging te versterken en te uniformiseren doorheed de EU
 
-
+##### Europese Unie
 
 | EU | 27 | Lidstaten |  
 | -------- | -------- | -------- |  
@@ -1259,6 +1259,36 @@ In summary, viruses attach themselves to legitimate programs and require user in
 | Oostenrijk | Polen | Portugal |
 | Roemenië | Slovenië | Slowakije |
 | Spanje | Tsjechië | Zweden |
+
+- Timing:
+	- Gestart in 2012
+	- Finale tekst aanvaard op 15/12/2015 door "De Drie"
+		- Europese Commissie
+		- Europees Parlement
+		- Europese Raad
+	- Veralingen klaar op 24/05/2016
+	- Overgangsperiode van 2 jaar
+	- Van kracht vanaf 25/05/2018
+##### Doel van GDPR
+![[Pasted image 20231209131257.png]]
+##### Persoonsgegevens
+
+> Gegevens aan de hand waarvan een persoon direct of indirect kan worden geïdentificeerd
+
+*Voorbeelden:*
+- Naam
+- Adres
+- GSM-nummer
+- Geboortedatum
+- Foto
+- E-mail
+- Posts op Sociale Media
+- IP-adres
+##### Principes van GDPR
+![[Pasted image 20231209131534.png]]
+![[Pasted image 20231209131552.png]]
+
+
 
 
 # 12 Examenvragen
