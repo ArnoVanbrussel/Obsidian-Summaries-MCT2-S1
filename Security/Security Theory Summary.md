@@ -1331,6 +1331,37 @@ In summary, viruses attach themselves to legitimate programs and require user in
 **Pseudoniemisatie vs. Anoniemisatie**
 - Pseudo: Je behoudt de mogelijkheid om personen te identificeren
 - Anon: Je verliest die mogelijkheid (in theorie)
+
+#### Te nemen stappen als bedrijf
+- Register aanleggen van opgeslagen persoonsgegevens
+	- Welke gegevens opgeslagen
+	- Hoe worden die verzameld
+	- Waar bijgehouden
+	- Wat wordt ermee gedaan
+	- Hoelang nodig
+	- Met wie gedeeld
+- Individuen inlichten over opslag en verwerking van persoonsgegevens
+- Persoonsgegevens adequaat beschermen
+	- Technische hulpmiddelen
+- Register up-to-date houden
+- Logboek van inbreuken bijhouden
+![[Pasted image 20231209133325.png]]
+1. Breng data in kaart
+	- Register volgens artikel 30
+2. Gap analysis
+	- Hoe groot is de 'gap' tussen GDPR-compliant en huidige situatie
+3. Voorstellingen tot aanpassingen
+	- DPO aanstellen
+	- Register aanleggen
+	- Beveiligingsmaatregelen oplijsten
+4. Implementatie
+	- Tijdslijn
+	- Multidisciplinair team
+	- Ondersteuning van directie
+	- Budget
+### GDPR en software development
+- Hou rekening met nieuwe recht
+
 # 12 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
