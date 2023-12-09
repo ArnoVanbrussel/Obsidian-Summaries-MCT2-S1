@@ -977,7 +977,15 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Update site framework, plugins & libs
 - Prepared statements
 - Authenticatie frameworks
-# 10 Examenvragen
+
+# 10 OT Security
+## 1e Industriële Revolutie
+- Stoommachine
+- Ijzer en Staal
+- Mechanisatie
+- Fabrieken
+
+# 11 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
 
@@ -1189,7 +1197,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 1. **White Hat Hackers:** Ethical hackers who use their skills to enhance security, finding vulnerabilities to help organizations improve their defenses.
 2. **Black Hat Hackers:** Typically associated with malicious intent, they break into systems for personal gain, to steal data, disrupt services, or create chaos.
 3. **Grey Hat Hackers:** Fall between white and black hat hackers, sometimes breaking into systems without permission but not necessarily for malicious purposes. They might disclose vulnerabilities to the public or demand payment for revealing flaws.
-# Vragen Hans
+# 12 Vragen Hans
 - PKI belangrijke elementen te onderscheiden
 - diffy hellman protocol
 - is wpa2 veilig

@@ -11,9 +11,11 @@
             "id": "d84ba5c04834cff8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Security/Assets/Pasted image 20231209093157.png"
+                "file": "Security/Security Theory Summary.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Assets/Pasted image 20231209093157.png",
+                "file": "Security/Security Theory Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Assets/Pasted image 20231209093157.png",
+                "file": "Security/Security Theory Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Assets/Pasted image 20231209093157.png"
+                "file": "Security/Security Theory Summary.md"
               }
             }
           },
@@ -153,12 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "499141b0debad12f",
+  "active": "d84ba5c04834cff8",
   "lastOpenFiles": [
+    "Security/Assets/Pasted image 20231209093157.png",
     "Security/Security Theory Summary.md",
     "Security/Assets/Pasted image 20231209093656.png",
     "Security/Assets/Pasted image 20231209093251.png",
-    "Security/Assets/Pasted image 20231209093157.png",
     "Containers/Containers Theory Summary.md",
     "README.md"
   ]
