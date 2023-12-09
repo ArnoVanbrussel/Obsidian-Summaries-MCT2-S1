@@ -92,6 +92,7 @@ Examen over:
 4. Respond
 5. Recover
 
+> I Prefer Dancing Rabbits Rapidly
 ### Lockheed Martin Cyber Kill Chain
 
 ![[Pasted image 20231029162748.png]]
@@ -104,6 +105,9 @@ Examen over:
   5. Installation
   6. Command & Control
   7. Actions on Objectives
+
+> Remember When Dogs Eat Ice Cream Always
+
 - The goal is to understand and disrupt the attacker's actions at various points in this 'kill chain'
 
 ### People - Process - Technology
