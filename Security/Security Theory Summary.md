@@ -1311,6 +1311,14 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Transparantie in gegevensstroom
 - Gegarandeerde E2E-beveiliging (exchange to exchange)
 
+**Data Protection Officer (DPO) Rollen**
+- Informeer en Adviseer bedrijven over data protection
+- Monitor databeheer en verwerking
+- Schat in de impact van bescherming en risiconiveau
+- Verwittig data subjects over schendingen
+- Werk mee met de toezichthoudende entiteiten
+
+
 # 12 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
