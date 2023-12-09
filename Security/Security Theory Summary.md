@@ -794,60 +794,43 @@ In summary, viruses attach themselves to legitimate programs and require user in
 ![[Pasted image 20231130152043.png]]
 ### Spoofing
 > Vervalsen van informatie in de header
-
 - IP Spoofing
 - MAC Spoofing
 - Email Spoofing
 - ...
-
 ### Availability
-
 - Uptime <> availability
 - 99.9% = 3 nines = 8.76u/yr down
 - 99.999% = 5 nines = 5.26min/yr down
-
 # 8 Backup
-
 - Essentieel voor het beschermen van data
 - Concrete back-up policy
 - Disaster recovery plan
-
 ## Eigenschappen van een correcte back-up
-
 - Offline
 - Beveiligd tegen aanpassing (integer)
 - Betrouwbaar
 - Beschikbaar (available)
 - Veilig opgeslagen (confidential)
-
 ## 123 methode
-
 ![[Pasted image 20231130153255.png]]
-
 ## Back-up media
-
 - Tape
 - Harddisk
 - USB-stick
 - Cloud-backup
 - RAID IS GEEN BACKUP
-
 ### LTO Tapes
-
 ![[Pasted image 20231130153110.png]]
 ![[Pasted image 20231130153117.png]]
 ![[Pasted image 20231130153121.png]]
-
 ## Cloud Back-up?
-
 - Wat met aansprakelijkheid
 - Wat met beschikbaarheid
 - Wat met vertrouwelijkheid
   => Wetgeving?
 - Wel zeer eenvoudig en gemakkelijk
-
 ## Back-up policy
-
 - Back-up frequentie
 - Back-up strategie
 - Type back-up
@@ -867,7 +850,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Moet effectief worden uitgevoerd
 
 # 9 Web Security
-
 - Belangrijke attack surface / point of entry
 - Belangrijk naar reputatie
 - CMS-systemen (wordpress, drupal, joomla, ...)
@@ -875,9 +857,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Authenticatie / escalation
 - Cross site scripting
 - OWASP [https://www.owasp.org]
-
 ## Vaak voorkomende problemen
-
 - SQL-injection
 - Cookie stealing
 - URL modification
@@ -893,9 +873,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Reputatie
 - Diefstal
 - Total PWN van alle servers & systemen
-
 ## Remediation
-
 - Don't be stupid
 - Sanitation LIB's (no DIY)
 - Update site framework, plugins & libs
