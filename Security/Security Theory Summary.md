@@ -190,11 +190,11 @@ Examen over:
 	- A highly targeted form of cyberattack in which hackers send personalized and deceptive emails to specific individuals or organizations, posing as trusted sources.
 	- It relies on social engineering and extensive research to exploit trust and trick the target into revealing sensitive information or taking harmful actions.
 - Double Barrel Attack
-  - Double barrel phishing is a [phishing tactic](https://www.privacysense.net/terms/phishing/) that involves two or several emails where the objective is to establish trust and authenticity so the victim is less likely to doubt or [question the attacker](https://www.itsecurityawareness.ie/glossary/double-barrel-attack).
+	- Double barrel phishing is a [phishing tactic](https://www.privacysense.net/terms/phishing/) that involves two or several emails where the objective is to establish trust and authenticity so the victim is less likely to doubt or [question the attacker](https://www.itsecurityawareness.ie/glossary/double-barrel-attack).
 - Examples:
-  - Bank card phishing
-  - CEO-fraude
-  - Factuurfraude
+	- Bank card phishing
+	- CEO-fraude
+	- Factuurfraude
 
 #### Smishing
 
