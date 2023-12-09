@@ -984,7 +984,36 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Ijzer en Staal
 - Mechanisatie
 - Fabrieken
+## 2e Industriële Revolutie
+- Staal
+- Spoorwegen
+- Elektriciteit
+	- Radio, gloeilamp, ...
+- Chemicaliën
+- Massaproductie
+## 3e Industriële Revolutie
+- Computers
+- Automatisatie
+- Digitalisering
+- Globalisering
+- Internet
+## 4e Industriële Revolutie
+- Digitalisering
+- Innovatieve technologie
+- Snelle verandering en disruptie
+- Ethiek en privacy
+- Slimme systemen en connectiviteit
+### STUXnet
+> Stuxnet is een zeer geavanceerd computervirus en een van de meest complexe malware die bekend is geworden vanwege zijn gerichte aanval op industriële controlesystemen, met name op kerncentrales en nucleaire installaties. Het virus werd ontdekt in 2010 en wordt algemeen beschouwd als een van de eerste cyberwapens.
 
+#### Kenmerken STUXnet
+1. **Gerichte aanval:**
+> Stuxnet was gericht op specifieke Siemens SCADA (Supervisory Control and Data Acquisition) systemen die worden gebruikt in industriële omgevingen, met een focus op Iran's nucleaire programma.
+
+2. **Complexiteit:**
+> Het virus was buitengewoon geavanceerd en complex, met meerdere zero-day kwetsbaarheden en exploits om systemen binnen te dringen zonder gedetecteerd te worden
+
+3. **Modulaire structuur:**
 # 11 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
