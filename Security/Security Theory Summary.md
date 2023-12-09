@@ -391,27 +391,21 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 - encrypt all data in transit
 - certificates can provide a level of trust
-
 ### Backups
-
 - 3 copies
   - Original + 2 copies
 - 2 different formats
   - In case one fails
 - 1 off site
   - One copy is safe in a disaster
-
 ### Software updates
 
 ### System Security Tools
-
 - Firewall
 - Anti-virus
 - Commercial software is not necessarily better
 - these can be vulnerable too
-
 ### Authentication =/= Authorization
-
 - Authentication:
   - confirms users are who they say they are
   - factors:
@@ -436,21 +430,16 @@ In summary, viruses attach themselves to legitimate programs and require user in
   - FIDO U2F
   - Third party authentication
     - OAuth
-    - Ofter more secure
+    - Often more secure
     - Also, social engineering risk
-
 ### Physical security
-
 - Storage encryption
 - Mitigation against data leaks
   - all data that is available will leak
     - no system ever conceived has proven to be secure
     - once leaked or compromised, data remains in the open
-
 ### Awareness
-
 - most important countermeasure is user awareness of the threats
-
 # 4 Access
 
 ## Beveiligen van toegang
@@ -469,9 +458,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Leen nooit uit
 - Gebruik 2FA
 - Wachtwoordkluis
-
 ### Beveiliging op hebben-basis
-
 - Smartcard
 - Dongle
 - Transponder
@@ -480,18 +467,13 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - RSA SecurID
 
 ### Beveiliging op zijn-basis
-
 - Iris scanner
 - Vingerafdruk
 - Stem
-
 ### Combinatie
-
 - Verhoogt veiligheid
 - bij voorkeur methodes op verschillende werkingsbasis
-
 ## SSO Sytems
-
 - Single Sign-On
   - Google, Facebook, ...
 - SAML
@@ -504,48 +486,35 @@ In summary, viruses attach themselves to legitimate programs and require user in
   - OpenID Connect
   - Extension of OAuth 2.0
   - Allow single session across multiple applications
-
 ## Fysische toegang
-
-- Onvergrendelde scharmen
+- Onvergrendelde schermen
 - Toegangscontrole serverroom
 - Hardware aanpassingen of diefstal
   - Asset Management software
 - Toegang tot het netwerk
 - Introductie van vreemde software
 - Opstarten vanaf andere media
-
 ## Privilege Escalation
-
-- Zichzelf een ander gebruikersniveau
+- Zichzelf een ander gebruikersniveau toewijzen
 - Horizontale escalation
   - Session hijacking van een andere gebruiker
 - Verticale escalation
   - Meer machtigingen verwerven
-
 # 5 Frameworks
-
 ## Regels
-
 - Vermijd security incidenten zo veel mogelijk
-
 ## Enforcement vs Policies
-
 ### Enforcement
-
 - Technische maatregelen om dingen onmogelijk te maken of om dingen af te dwingen
 - VB.:
   - Firewall blokkeert IP-adres, poortnummer
   - Wachtwoord moet 12 tekens zijn, ...
   - MFA verplicht, ...
-
 ### Policies
-
 - Afspraken die beschrijven wat wel en niet mag
 - BV.:
   - Elke dienst die vanaf internet bereikbaar is, mag enkel gebruik maken van versleuteld verkeer en moet beveiligd zijn met MFA
   - Elke 2 jaar moet een penetration test gebeurd
-
 ## Frameworks
 
 - A supporting structure around which something can be built
