@@ -1028,7 +1028,15 @@ In summary, viruses attach themselves to legitimate programs and require user in
 **JAN 2020: Picanol**
 - General ransomware, presumably through China factory
 - Worldwide IT systems and productions systems victim
-- Imact: no productio
+- Impact: no production possible for more than a week
+## What is IACS
+- Insdustrial Automation and Control Systems
+- The collection of:
+	- Sensors
+	- Motors
+	- PLC's
+	- Scanners
+	- HMI's
 # 11 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
