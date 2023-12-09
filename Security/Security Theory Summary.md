@@ -1378,6 +1378,31 @@ In summary, viruses attach themselves to legitimate programs and require user in
 	- Data Loss Prevention (gateway)
 - **MFA**
 	- Bescherming van inloggegevens
+- **Audit rapporten**
+	- Bescherming van inloggegevens
+	- Active Directory
+	- Wie deed wat, wanneer, waar, ...
+- **Centraal beheerd anti-virus en -malware systeem**
+- **Full disk encryption**
+	- Laptop verloren of gestolen
+- **Centraal Patch beheer**
+- **Mobile Device Management**
+	- Beveiligde omgeving voor bedrijfsgegevens
+	- Selective wipe
+- **Fileserver**
+	- Encryptie van fileserver
+	- Principle of least privilege
+- **Email**
+	- Advanced Threat Protection
+		- Onderscheppen van bv.: phising
+- **Veilig en gecontroleerd bestanden delen**
+	- Bv.: Citrix, sharefile
+- **Document Encryption**
+	- Azure Information Protection
+##
+
+
+
 # 12 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
