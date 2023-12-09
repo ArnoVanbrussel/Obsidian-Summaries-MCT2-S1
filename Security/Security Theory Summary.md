@@ -1195,10 +1195,10 @@ In summary, viruses attach themselves to legitimate programs and require user in
 ### 3 Secure Remote Access
 - [[#Purdue Model]]
 ### 4 No default passwords
-
-
-
-### Purdue Model
+![[Pasted image 20231209115145.png]]
+### 5 Segmentation
+![[Pasted image 20231209115239.png]]
+## Purdue Model
 >   The Purdue Enterprise Reference Architecture (PERA), also known as the Purdue Model, is a reference model used in industrial control systems (ICS) and manufacturing environments to organize and secure network architectures. It provides a framework for designing and implementing secure and segmented networks within industrial environments.
 
 **Level 0: Process**
@@ -1220,13 +1220,24 @@ In summary, viruses attach themselves to legitimate programs and require user in
 > This level represents the integration of the ICS (Industrial Control System) networks with the corporate IT network or the enterprise level network. This level signifies the connection between the OT environment and the IT environment
 
 ![[Pasted image 20231209112532.png]]
+## Summary
+- What is IACS
+	- Industrial Automation and Control Systems
+- Where is it being used
+	- Everywhere
+- IT vs OT
+	- IT: Confidentiality prevails
+	- OT: Availability prevails
+- How to approach improvement plans
+	- Based on risk appetite
+- 4 phases
+	- Assess, Develop & Implement, Maintain, Improve
+- 5 (or 6?) Common steps for all OT improvement plans
 
+# 11 Privacy & Ethics
+## Deel 1: Privacy
 
-
-
-
-
-# 11 Examenvragen
+# 12 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
 
@@ -1438,7 +1449,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 1. **White Hat Hackers:** Ethical hackers who use their skills to enhance security, finding vulnerabilities to help organizations improve their defenses.
 2. **Black Hat Hackers:** Typically associated with malicious intent, they break into systems for personal gain, to steal data, disrupt services, or create chaos.
 3. **Grey Hat Hackers:** Fall between white and black hat hackers, sometimes breaking into systems without permission but not necessarily for malicious purposes. They might disclose vulnerabilities to the public or demand payment for revealing flaws.
-# 12 Vragen Hans
+# 13 Vragen Hans
 - PKI belangrijke elementen te onderscheiden
 - diffy hellman protocol
 - is wpa2 veilig
