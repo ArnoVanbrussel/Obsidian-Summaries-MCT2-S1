@@ -1014,6 +1014,12 @@ In summary, viruses attach themselves to legitimate programs and require user in
 > Het virus was buitengewoon geavanceerd en complex, met meerdere zero-day kwetsbaarheden en exploits om systemen binnen te dringen zonder gedetecteerd te worden
 
 3. **Modulaire structuur:**
+> Stuxnet bestond uit verschillende modules, waaronder code om zichzelf te verspreiden via USB-dirves en LAD, en code om de controle van SCADA-systemen te manipuleren
+
+4. **Specifieke doelen:**
+> Het doel van Stuxnet was om centrifuges te verstoren die worden gebruikt voor de verrijking van uranium in Iran, waarbij de snelheid van deze centrifuges veranderede zonder dat de operators dat merkten
+
+
 # 11 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
