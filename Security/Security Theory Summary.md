@@ -1029,14 +1029,27 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - General ransomware, presumably through China factory
 - Worldwide IT systems and productions systems victim
 - Impact: no production possible for more than a week
-## What is IACS
-- Insdustrial Automation and Control Systems
+## IACS
+### What is IACS
+- Industrial Automation and Control Systems
 - The collection of:
 	- Sensors
 	- Motors
-	- PLC's
+	- PLC's (Programmable Logic Controllers)
 	- Scanners
-	- HMI's
+	- HMI's (Human Machine Interfaces)
+- **OT = Operational Technology**
+![[Pasted image 20231209104226.png]]
+## Where is IACS used
+![[Pasted image 20231209104327.png]]
+![[Pasted image 20231209104337.png]]
+![[Pasted image 20231209104348.png]]
+![[Pasted image 20231209104400.png]]
+
+### A risky story
+*Imagine you live in Norway and are looking to buy a new car*
+![[Pasted image 20231209104516.png]]
+
 # 11 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
