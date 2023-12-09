@@ -1236,6 +1236,24 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 # 11 Privacy & Ethics
 ## Deel 1: Privacy
+### GDPR: General Data Protection Regulation
+*Algemene Verordening Gegevensbescherming (AVG)*
+- Vorige EU wetgeving inzake data protection dateerde van 1995
+- Waarom Security?
+	- 2 Redenen
+		- Moeten (Compliance)
+		- Willen (Risico)
+#### Wat is de GDPR
+- Europese regelgeving om databeveiliging te versterken en te uniformiseren doorheed de EU
+- EU: 27 lidstaten
+	- België
+	- Bulgarije
+	- Cyprus
+	- Denemarken
+	- Duitsland
+	- Estland
+	- Finland
+	- Frankr
 
 # 12 Examenvragen
 ## Something you know + something you have + something you are
