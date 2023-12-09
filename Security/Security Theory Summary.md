@@ -1297,7 +1297,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 ![[Pasted image 20231209093251.png]]
 
 **Web-beveiliging makkelijk te kraken:**
-*IDK, someone *
+*IDK, someone else?*
 
 **wpa2 veilig?:**
 - Niet waar, niets is veilig

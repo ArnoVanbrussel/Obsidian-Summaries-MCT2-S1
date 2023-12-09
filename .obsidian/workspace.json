@@ -11,11 +11,9 @@
             "id": "d84ba5c04834cff8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Security/Security Theory Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "Security/Assets/Pasted image 20231209093157.png"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "922717468e702d9c",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Security Theory Summary.md",
+                "file": "Security/Assets/Pasted image 20231209093157.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Security Theory Summary.md",
+                "file": "Security/Assets/Pasted image 20231209093157.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Security Theory Summary.md"
+                "file": "Security/Assets/Pasted image 20231209093157.png"
               }
             }
           },
@@ -156,11 +153,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d84ba5c04834cff8",
+  "active": "499141b0debad12f",
   "lastOpenFiles": [
-    "Pasted image 20231209093656.png",
-    "Pasted image 20231209093251.png",
-    "Pasted image 20231209093157.png",
+    "Security/Security Theory Summary.md",
+    "Security/Assets/Pasted image 20231209093656.png",
+    "Security/Assets/Pasted image 20231209093251.png",
+    "Security/Assets/Pasted image 20231209093157.png",
     "Containers/Containers Theory Summary.md",
     "README.md"
   ]
