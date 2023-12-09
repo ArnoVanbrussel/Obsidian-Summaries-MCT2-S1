@@ -27,7 +27,6 @@
 ## Evaluatie
 
 Examen over:
-
 - Concepten en nomenclatuur
 - Werking van beveiligingstechnologieën
 - Kennis van best-practices
@@ -41,13 +40,13 @@ Examen over:
 - Niet iedereen heeft even goede bedoelingen
 - Veel mensen = Veel potentiële slachtoffers
 - Internet:
-  - Meer mensen
-  - Makkelijk bereikbaar
+	- Meer mensen
+	- Makkelijk bereikbaar
 - Geen magische oplossing
-- Vertantwoordelijkheid van iedereen
+- Verantwoordelijkheid van iedereen
 - Tegenmaatregelen nemen
-  - Zijn slechts nuttig indien ze effectief gebruikt worden
-  - Lijk vaak in de weg te zitten of lastig, maar noodzakelijk
+	- Zijn slechts nuttig indien ze effectief gebruikt worden
+	- Lijkt vaak in de weg te zitten of lastig, maar noodzakelijk
 - Alert en voorzichtig zijn
 
 ## Risico
@@ -55,7 +54,7 @@ Examen over:
 - Bedreiging
 - Kwetsbaarheid
 - Tegenmaatregelen
-  - Reduceren v/d kwetsbaarheid
+	- Reduceren v/d kwetsbaarheid
 
 ## Frameworks en Modellen
 
@@ -74,7 +73,9 @@ Examen over:
 - **Integrity**:
   - Guaranteeing the accuracy and reliability of data and systems, protecting them from unauthorized alterations or tampering.
 - **Availability**:
-  - Making sure that information and resources are consistently accessible and usable when needed, and resilient to disruptions or attacks. The CIA Triad is a fundamental framework for information security.
+  - Making sure that information and resources are consistently accessible and usable when needed, and resilient to disruptions or attacks. 
+  
+  > The CIA Triad is a fundamental framework for information security.
 
 ### NIST CSF
 
