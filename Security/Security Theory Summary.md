@@ -1464,9 +1464,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Alleen globale gegevens mogen worden verzameld
 - Individualisering van gegevens in principe niet toegestaan
 	- Uitzonderingen:
-		- Na vaststellingen van een onregelmatigheid en wanneer:
-			- Het voorkomen van v/d feiten streidig zijn met goede zeden of waardigheid
-
+		- Na vaststellingen van een onregelmatigheid
 # 12 Examenvragen
 ## Something you know + something you have + something you are
 - 3 different types of authentication factors to verify a user's identity
