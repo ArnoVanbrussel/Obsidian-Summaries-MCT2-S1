@@ -1140,10 +1140,8 @@ In summary, viruses attach themselves to legitimate programs and require user in
 		- Moeten (Compliance)
 		- Willen (Risico)
 #### Wat is de GDPR
-- Europese regelgeving om databeveiliging te versterken en te uniformiseren doorheed de EU
-
+> Europese regelgeving om databeveiliging te versterken en te uniformiseren doorheen de EU
 ##### Europese Unie
-
 | EU | 27 | Lidstaten |  
 | -------- | -------- | -------- |  
 | België | Bulgarije | Cyprus |  
@@ -1168,7 +1166,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 ##### Doel van GDPR
 ![[Pasted image 20231209131257.png]]
 ##### Persoonsgegevens
-
 > Gegevens aan de hand waarvan een persoon direct of indirect kan worden geïdentificeerd
 
 *Voorbeelden:*
@@ -1227,7 +1224,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 **Pseudoniemisatie vs. Anoniemisatie**
 - Pseudo: Je behoudt de mogelijkheid om personen te identificeren
 - Anon: Je verliest die mogelijkheid (in theorie)
-
 #### Te nemen stappen als bedrijf
 - Register aanleggen van opgeslagen persoonsgegevens
 	- Welke gegevens opgeslagen
@@ -1259,7 +1255,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - Hou rekening met nieuwe rechten van data subjects
 - Probeer rol van Data Processor te vermijden
 #### Recht op vergetelheid
-- Volgens letter vd wet
+- Volgens letter v/d wet
 > Meer bepaald moeten betrokkenen het recht hebben hun persoonsgegevens te laten wissen en niet verder te laten verwerken … wanneer de betrokkenen hun toestemming hebben ingetrokken of bezwaar maken tegen de verwerking van hun persoonsgegevens, …
 - Wat met backups?
 #### GDPR-Compliancy = multidisciplinaire activiteit
