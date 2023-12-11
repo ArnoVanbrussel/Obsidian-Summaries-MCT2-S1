@@ -1445,7 +1445,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 1. **Risk Acceptance:** 
 > Acknowledging the existence of a risk and deciding to tolerate or absorb its potential consequences. This strategy is viable when the cost of mitigating the risk outweighs the potential impact.
 
-2. Risk Avoidance
+2. **Risk Avoidance:**
 > Identifying a risk and taking actions to eliminate or avoid it entirely. This might involve altering plans, processes, or operations to steer clear of the risk and its potential negative outcomes.
 
 3. **Risk Mitigation:** 
