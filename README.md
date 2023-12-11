@@ -3,16 +3,8 @@ This Repo contains the md files of theory summaries:
 1. Cloud Services
 2. Security
 3. Containers and Orchestration
-4. Advanced Software Engineering
-## Rules
-- Do NOT change anything
-  Editing the files will result in being denied access
-  If you want to make edits, you are free to download the files and edit them yourself or in you own repo
-- Do NOT share the files with non-collaborators of the repo
-  Sharing the files with people will result in being denied access
-
-*Tip: In settings>community plugins, you can turn 'Obsidian Git' off to prevent Obsidian from pushing any changes to the repo.*
 
 ## Access
-The files within this repo can be read with Obsidian:
-https://obsidian.md/download
+- This is a public repo, anyone can access the files
+- I recommend using Obsidian to view the files. (otherwise the assets might not load in correctly)
+- Download obsidian here: https://obsidian.md/download
