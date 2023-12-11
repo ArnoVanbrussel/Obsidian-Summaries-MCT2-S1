@@ -1599,14 +1599,25 @@ In summary, viruses attach themselves to legitimate programs and require user in
 **Is wpa2 veilig:**
 - Niets is veilig
 
-**Wpa enterprise veiliger dan personal?:**
+**WPA enterprise veiliger dan personal?:**
 > Over het algemeen wordt WPA Enterprise als veiliger beschouwd dan WPA Personal. WPA Enterprise maakt gebruik van een RADIUS-server voor authenticatie en biedt unieke sleutels voor elke gebruiker, terwijl WPA Personal een vooraf gedeelde sleutel gebruikt voor alle gebruikers op het netwerk.
 
 **Waarvoor staat GDPR:**
-- 3 rollen GDPR
-- wie voldoen aan GDPR
-- in welke industriële revolutie zitten we????
-	- antwoord: 4e
+- General Data Protection Regulation
+
+**3 rollen GDPR:**
+- Gegevenssubject
+	- Het individu waar de persoonlijke gegevens over gaan.
+- Verwerkingsverantwoordelijke
+	- De entiteit die bepaalt hoe en waarom persoonlijke gegevens worden verwerkt.
+- Verwerker
+	- De entiteit die persoonlijke gegevens namens de verwerkingsverantwoordelijke verwerkt.
+
+**Wie voldoen aan GDPR:**
+> Alle organisaties, ongeacht hun locatie, die persoonlijke gegevens verwerken van individuen in de EU, moeten voldoen aan de GDPR-regels. Dit geldt zowel voor EU-bedrijven als voor bedrijven buiten de EU die gegevens verwerken van EU-burgers.
+
+**In welke industriële revolutie zitten we?**
+- 4e
 
 **CIA Termen:**
 - Confidentiality (Vertrouwelijkheid)
