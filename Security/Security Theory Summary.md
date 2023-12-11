@@ -1497,20 +1497,25 @@ In summary, viruses attach themselves to legitimate programs and require user in
 1. **Confidentiality (Vertrouwelijkheid):**
 > This focuses on ensuring that information is accessible only to those authorized to access it. It involves measures to prevent unauthorized access, disclosure, or exposure of sensitive data. Encryption, access controls, and secure authentication methods are often used to maintain confidentiality.
 
-**Examples of countermeasures:**
+**Examples of countermeasures in this category:**
 - User Training
 - Permissions
-- NAC (also availability)
-- Firewall
 
 2. **Integrity (Integriteit):** 
 > Integrity refers to maintaining the accuracy, consistency, and trustworthiness of data over its entire lifecycle. It involves safeguarding data from unauthorized alteration, ensuring that it remains complete, accurate, and uncorrupted. Techniques like data hashing, digital signatures, and version control help in maintaining data integrity.
 
-**Examples of countermeasures:**
-- 
+**Examples of countermeasures in this category:**
+- Updates (also A)
+- Antivirus (also A)
+- IDS/IPS (also A)
 
 3. **Availability (Beschikbaarheid):** 
 > Availability ensures that information and systems are accessible and usable when needed by authorized users. It involves implementing measures to prevent and minimize disruptions, ensuring that systems remain operational despite potential threats like hardware failures, cyber attacks, or natural disasters. Redundancy, backups, and disaster recovery plans contribute to ensuring availability.
+
+**Examples of countermeasures in this category:**
+- Backups
+- NAC
+- Firewall (also C & I)
 
 **In essence**
 > The CIA model serves as a guideline for designing, implementing, and evaluating security measures within an organization's information systems. It helps in prioritizing and addressing various security concerns to protect sensitive information and maintain the functionality of systems and data.
