@@ -1636,7 +1636,6 @@ In summary, viruses attach themselves to legitimate programs and require user in
 
 **Risico verlagen:**
 - Increase Counter measure score
-- Decrease Vulnerability
 ![[Pasted image 20231029163747.png]]
 
 **Goeie backup:**
@@ -1687,10 +1686,10 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - strength = entropy = length
 - complexity = letters, symbols, capitals, numbers, ...
 - No longer considered secure
-  - no password is secure
-  - can be phised
-  - social engineerd
-  - logged
+	- no password is secure
+		- can be phised
+		- social engineered
+		- logged
 
 **Vertrouwelijke site: HTTPS:**
 - Niet waar, iedereen kan een HTTPS certificaat aanvragen
