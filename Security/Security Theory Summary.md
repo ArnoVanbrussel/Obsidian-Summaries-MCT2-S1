@@ -1487,7 +1487,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 	1. Threat
 	2. Vulnerability
 	3. Countermeasure
-- Risico = Bedreiging * Ketsbaarheid / Tegenmaatregelen
+- Risico = Bedreiging * Kwetsbaarheid / Tegenmaatregelen
 - You cannot control the threat
 	- Risk can only be diminished by reducing the vulnerability by taking countermeasures
 
@@ -1497,8 +1497,17 @@ In summary, viruses attach themselves to legitimate programs and require user in
 1. **Confidentiality (Vertrouwelijkheid):**
 > This focuses on ensuring that information is accessible only to those authorized to access it. It involves measures to prevent unauthorized access, disclosure, or exposure of sensitive data. Encryption, access controls, and secure authentication methods are often used to maintain confidentiality.
 
+**Examples of countermeasures:**
+- User Training
+- Permissions
+- NAC (also availability)
+- Firewall
+
 2. **Integrity (Integriteit):** 
 > Integrity refers to maintaining the accuracy, consistency, and trustworthiness of data over its entire lifecycle. It involves safeguarding data from unauthorized alteration, ensuring that it remains complete, accurate, and uncorrupted. Techniques like data hashing, digital signatures, and version control help in maintaining data integrity.
+
+**Examples of countermeasures:**
+- 
 
 3. **Availability (Beschikbaarheid):** 
 > Availability ensures that information and systems are accessible and usable when needed by authorized users. It involves implementing measures to prevent and minimize disruptions, ensuring that systems remain operational despite potential threats like hardware failures, cyber attacks, or natural disasters. Redundancy, backups, and disaster recovery plans contribute to ensuring availability.
