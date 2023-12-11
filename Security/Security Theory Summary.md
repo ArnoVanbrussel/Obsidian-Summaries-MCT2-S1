@@ -1584,14 +1584,28 @@ In summary, viruses attach themselves to legitimate programs and require user in
 2. **Black Hat Hackers:** Typically associated with malicious intent, they break into systems for personal gain, to steal data, disrupt services, or create chaos.
 3. **Grey Hat Hackers:** Fall between white and black hat hackers, sometimes breaking into systems without permission but not necessarily for malicious purposes. They might disclose vulnerabilities to the public or demand payment for revealing flaws.
 # 13 Vragen Hans
-- PKI belangrijke elementen te onderscheiden
-- diffy hellman protocol
-- is wpa2 veilig
-- Wpa enterprise veiliger dan personal?
-- waarvoor staat GDPR
+**PKI belangrijke elementen te onderscheiden:**
+- Public Key Encryption
+- Asymmetrische sleutels
+	- publiek - privaat
+- Certificate Authority
+	- Het is verantwoordelijk voor het uitgeven en beheren van digitale certificaten die de identiteit van entiteiten verifiëren.
+- Digitale certificaten
+	- Deze certificaten bevatten openbare sleutels en identificatiegegevens van entiteiten en worden gebruikt voor veilige communicatie en identiteitsverificatie.
+
+**diffy hellman protocol:**
+> Dit protocol wordt gebruikt voor het veilig uitwisselen van cryptografische sleutels via een onbeveiligd kanaal. Het stelt twee partijen in staat om een gedeelde geheime sleutel af te leiden, zelfs als ze communiceren over een onveilig medium.
+
+**Is wpa2 veilig:**
+- Niets is veilig
+
+**Wpa enterprise veiliger dan personal?:**
+> Over het algemeen wordt WPA Enterprise als veiliger beschouwd dan WPA Personal. WPA Enterprise maakt gebruik van een RADIUS-server voor authenticatie en biedt unieke sleutels voor elke gebruiker, terwijl WPA Personal een vooraf gedeelde sleutel gebruikt voor alle gebruikers op het netwerk.
+
+**Waarvoor staat GDPR:**
 - 3 rollen GDPR
 - wie voldoen aan GDPR
-- in welke industriele revolutie zitten we????
+- in welke industriële revolutie zitten we????
 	- antwoord: 4e
 
 **CIA Termen:**
