@@ -284,7 +284,7 @@
 
 - Azure Portal
   - Ok for daily use
-  - No easy to automate
+  - Not easy to automate
   - What if i need 100 sites
   - What if i need 50 servers
 - Azure CLI 2.0 Solution
@@ -363,7 +363,7 @@
   - Private blockchain possible
     - Lot of evolution
     - Etherium
-    - Smart conracts
+    - Smart contracts
 - Web3.js
 - IoT & Blockchain => lot of potential
   ![[Pasted image 20231118132150.png]]
