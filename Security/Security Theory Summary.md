@@ -861,7 +861,7 @@ In summary, viruses attach themselves to legitimate programs and require user in
 - SQL-injection
 - Cookie stealing
 - URL modification
-- XXS (Cross site scripting)
+- XSS (Cross site scripting)
 - ...
   **Scannen:**
 - Nessus, Nikto, OpenVAS
