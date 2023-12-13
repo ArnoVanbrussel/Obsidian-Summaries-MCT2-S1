@@ -38,7 +38,7 @@
 - Certain data may NOT be stored in the cloud, e.g. medical
 - Can also be used in backup scenarios
 
-### IaaSfdsqghtv
+### IaaS
 
 - No own hardware
 - Rent VMs in Cloud environment
