@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Security Theory Summary.md",
+                "file": "Cloud services/Cloud Services Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Security Theory Summary.md",
+                "file": "Cloud services/Cloud Services Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Security Theory Summary.md",
+                "file": "Cloud services/Cloud Services Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Security Theory Summary.md"
+                "file": "Cloud services/Cloud Services Summary.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "d84ba5c04834cff8",
   "lastOpenFiles": [
-    "Security/Assets/GvVz.md",
     "Security/Security Theory Summary.md",
+    "Security/Assets/GvVz.md",
     "README.md",
     "Security/Assets/Pasted image 20231209135458.png",
     "Security/Assets/Pasted image 20231209133325.png",
