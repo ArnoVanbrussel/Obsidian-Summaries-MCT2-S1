@@ -839,9 +839,9 @@
 {
 	"IsEncrypted": false,
 	"Values": {
-		"AzureWebJobStorage": "DefaultEndpointsProtocol=http....",
+		"AzureWebJobStorage": "DefaultEndpointsProtocol=http...",
 		"FUNCTIONS_WORKER_RUNTIME": "dotnet",
-		"Storage": "DefaultEnpointsProtocol=...."
+		"Storage": "DefaultEnpointsProtocol=..."
 	}
 }
 ```
