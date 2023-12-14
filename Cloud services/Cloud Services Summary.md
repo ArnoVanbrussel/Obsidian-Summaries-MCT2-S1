@@ -801,7 +801,7 @@
 - Column types:
 	- Byte[]
 	- Bool
-	- DateTIme
+	- DateTime
 	- Double
 	- Guid
 	- Int32 (int)
