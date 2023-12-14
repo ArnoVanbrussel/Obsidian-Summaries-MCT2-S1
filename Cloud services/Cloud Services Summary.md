@@ -25,7 +25,7 @@
 - Most freedom to work
 - Sometimes investing in hardware you only need for limited number of days
 - Ex: webshop and Christmas period
-- Sometimes required by legsitlation
+- Sometimes required by legistlation
 - Medical data
 - Financial data
 - Lack of trust with public cloud provider (cfr NSA)
