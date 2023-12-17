@@ -82,16 +82,15 @@
     - A) Separate files for each environment
     - B) Use single, monolithic configuration files
     - C) Avoid defining environments in Compose files
-    - D) Rely solely on environment variables
+    - D) Rely on environment variables
 ### Fragments & extensions:
 **Question:** What is the purpose of using fragments and extensions in Docker Compose?
     - A) To create isolated containers
     - B) To simplify container deployment
     - C) To break down services into smaller components
     - D) To reuse common configurations across multiple Compose files
-
 ### Why Kubernetes is useful for microservices:
-**Question:**Which of the following describes a key advantage of Kubernetes in managing microservices?
+**Question:** Which of the following describes a key advantage of Kubernetes in managing microservices?
 	- A) It enables easier scaling and deployment of microservices across a cluster.
 	- B) It primarily focuses on monolithic architecture.
 	- C) It restricts the number of programming languages used in microservices.

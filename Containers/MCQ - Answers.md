@@ -25,6 +25,11 @@
 
 **Answer:**
 - Optimize Layer efficiency
+	- Utilize multi-stage builds
+	- Combine multiple commands within a single RUN instruction using '&&'
+	- Cleanup unnecessary files
+	- Utilize .dockerignore
+	- Use caching
 ### Working with Basic Docker Commands:
 **Answer:** A) docker exec
 
@@ -42,9 +47,8 @@
 
 ### Fragments & extensions:
 **Answer:** D) To reuse common configurations across multiple Compose files
-
-### Why Kubernetes is useful for microservices:** Answer: A) It enables easier scaling and deployment of microservices across a cluster.
-
+### Why Kubernetes is useful for microservices:
+Answer: A) It enables easier scaling and deployment of microservices across a cluster.
 ### The Kubernetes Building Blocks:
 Answer: A) Pods
 ### How autoscaling in Kubernetes works:
