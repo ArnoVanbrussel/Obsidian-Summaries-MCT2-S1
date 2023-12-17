@@ -51,6 +51,8 @@
 - C) Consolidating commands and reducing layer count 
 - D) Avoiding the use of caching mechanisms
 
+**Question:** Give 5 ways to optimize a Dockerfile.
+
 ### Working with Basic Docker Commands:
 **Question:** Which command allows you to execute a command in a running container?
 - A) docker exec 
@@ -61,8 +63,8 @@
 **Question:** What command allows you to start and run services defined in a Docker Compose file?
     - A) `docker up`
     - B) `docker run`
-    - C) `docker-compose start`
-    - D) `docker-compose up`
+    - C) `docker compose start`
+    - D) `docker compose up`
 ### Docker Compose terminology and components:
 **Question:** Which term in Docker Compose refers to a single container running a specific image?
     - A) Module

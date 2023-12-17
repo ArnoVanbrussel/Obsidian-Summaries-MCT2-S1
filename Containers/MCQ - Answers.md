@@ -23,11 +23,13 @@
 ### Optimizing a Dockerfile:
 **Answer:** C) Consolidating commands and reducing layer count
 
+**Answer:**
+- Optimize Layer efficiency
 ### Working with Basic Docker Commands:
 **Answer:** A) docker exec
 
 ### How to work with Docker Compose and its usefulness:
-**Answer:** D) docker-compose up
+**Answer:** D) docker compose up
 
 ### Docker Compose terminology and components:
 **Answer:** C) Service
