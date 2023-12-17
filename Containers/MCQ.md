@@ -27,14 +27,36 @@
 
 ### What is a kernel? What about features like cgroups & namespaces?
 **Question:** What role does the kernel play in the context of containers, and what do features like cgroups and namespaces do?
-- A) The kernel is the central component of an operating system, providing low-level functionalities. Cgroups and namespaces are kernel features that control resource allocation and isolation for processes and their resources.
-- B) The kernel refers to a specific type of container used in Linux systems. Cgroups and namespaces are user interfaces for interacting with containers. C) The kernel manages only hardware-related functions in a system. Cgroups and namespaces are unrelated to containerization. D) The kernel controls network settings within containers. Cgroups and namespaces regulate container image sizes.
-
+	- A) The kernel is the central component of an operating system, providing low-level functionalities. Cgroups and namespaces are kernel features that control resource allocation and isolation for processes and their resources.
+	- B) The kernel refers to a specific type of container used in Linux systems. Cgroups and namespaces are user interfaces for interacting with containers.
+	- C) The kernel manages only hardware-related functions in a system. Cgroups and namespaces are unrelated to containerization.
+	- D) The kernel controls network settings within containers. Cgroups and namespaces regulate container image sizes.
 ### Linux / Ubuntu landscape?
-
 **Question:** What describes the Linux/Ubuntu landscape in the context of containers?
+	- A) Linux/Ubuntu provides extensive support for containerization, with various tools and technologies like Docker, Kubernetes, and container-specific OS distributions.
+	- B) Linux/Ubuntu is not suitable for containerization due to its complex architecture.
+	- C) Linux/Ubuntu solely relies on virtualization for software deployment, neglecting container technologies.
+	- D) Linux/Ubuntu offers containerization only for specific programming languages.
 
-**Options:** A) Linux/Ubuntu provides extensive support for containerization, with various tools and technologies like Docker, Kubernetes, and container-specific OS distributions. B) Linux/Ubuntu is not suitable for containerization due to its complex architecture. C) Linux/Ubuntu solely relies on virtualization for software deployment, neglecting container technologies. D) Linux/Ubuntu offers containerization only for specific programming languages.
+### Finding, Pulling, Tagging, and Pushing Images:
+**Question:** What command is used to download a Docker image from a registry?
+	- A) docker copy
+	- B) docker fetch 
+	- C) docker pull 
+	- D) docker download
+### Optimizing a Dockerfile:
+**Question:** What practice can help optimize a Dockerfile for smaller image sizes?
+- A) Including unnecessary files and dependencies 
+- B) Using multiple base images for different components 
+- C) Consolidating commands and reducing layer count 
+- D) Avoiding the use of caching mechanisms
+
+### Working with Basic Docker Commands:
+**Question:** Which command allows you to execute a command in a running container?
+- A) docker exec 
+- B) docker run 
+- C) docker command 
+- D) docker execute
 ### How to work with Docker Compose and its usefulness:
 **Question:** What command allows you to start and run services defined in a Docker Compose file?
     - A) `docker up`
@@ -65,3 +87,5 @@
     - B) To simplify container deployment
     - C) To break down services into smaller components
     - D) To reuse common configurations across multiple Compose files
+
+#
