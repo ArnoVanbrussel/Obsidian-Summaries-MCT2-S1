@@ -97,11 +97,11 @@
 	- D) It doesn't support service discovery.
 
 ### The Kubernetes Building Blocks:
-**Question:** What component in Kubernetes is responsible for managing and maintaining containers?
+**Question:** What component in Kubernetes is responsible for managing and maintaining containers within a node?
 	- A) Pods
 	- B) Services
 	- C) Ingress
-	- D) Deployments
+	- D) Kubelet
 
 ### How autoscaling in Kubernetes works:
 **Question:** Which factor triggers autoscaling of pods in Kubernetes?
@@ -125,7 +125,7 @@
 	- D) kind
 
 ### How the Kubernetes CLI works:
-**Question:**Which command is used to view the current nodes in a Kubernetes cluster?
+**Question:** Which command is used to view the current nodes in a Kubernetes cluster?
 	- A) kubectl nodes
 	- B) kubectl get pods
 	- C) kubectl describe nodes

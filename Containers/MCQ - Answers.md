@@ -50,7 +50,7 @@
 ### Why Kubernetes is useful for microservices:
 Answer: A) It enables easier scaling and deployment of microservices across a cluster.
 ### The Kubernetes Building Blocks:
-Answer: A) Pods
+Answer: A) Kubelet
 ### How autoscaling in Kubernetes works:
 Answer: C) CPU utilization
 ### Different kinds of Load Balancing options:
