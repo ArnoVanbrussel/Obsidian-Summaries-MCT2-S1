@@ -88,4 +88,45 @@
     - C) To break down services into smaller components
     - D) To reuse common configurations across multiple Compose files
 
-#
+# Answers
+### What is a container, why do we need it?
+**Answer:** A) A container is a lightweight, portable, and isolated environment used to run applications, ensuring consistency across different computing environments.
+
+### What is Docker, the Docker Engine (daemon)?
+**Answer:** A) Docker is a container orchestration tool used for automating deployment, scaling, and management of containers. The Docker Engine manages clusters of containers.
+
+### What are microservices?
+**Answer:** B) Microservices are a way of structuring applications as a collection of loosely coupled services, each responsible for a specific function.
+
+### Virtualization vs. Containerization?
+**Answer:** B) Containerization uses containers to encapsulate applications and their dependencies, while virtualization utilizes hypervisors to create virtual machines.
+
+### What is a kernel? What about features like cgroups & namespaces?
+**Answer:** A) The kernel is the central component of an operating system, providing low-level functionalities. Cgroups and namespaces are kernel features that control resource allocation and isolation for processes and their resources.
+
+### Linux / Ubuntu landscape?
+**Answer:** A) Linux/Ubuntu provides extensive support for containerization, with various tools and technologies like Docker, Kubernetes, and container-specific OS distributions.
+
+### Finding, Pulling, Tagging, and Pushing Images:
+**Answer:** C) docker pull
+
+### Optimizing a Dockerfile:
+**Answer:** C) Consolidating commands and reducing layer count
+
+### Working with Basic Docker Commands:
+**Answer:** A) docker exec
+
+### How to work with Docker Compose and its usefulness:
+**Answer:** D) docker-compose up
+
+### Docker Compose terminology and components:
+**Answer:** C) Service
+
+### Microservices communication in Docker (Compose):
+**Answer:** A) Using environment variables
+
+### Docker (Compose) best practices and recommendations:
+**Answer:** A) Separate files for each environment
+
+### Fragments & extensions:
+**Answer:** D) To reuse common configurations across multiple Compose files
