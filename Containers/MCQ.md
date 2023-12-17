@@ -88,6 +88,79 @@
     - C) To break down services into smaller components
     - D) To reuse common configurations across multiple Compose files
 
+### Why Kubernetes is useful for microservices:
+**Question:**Which of the following describes a key advantage of Kubernetes in managing microservices?
+	- A) It enables easier scaling and deployment of microservices across a cluster.
+	- B) It primarily focuses on monolithic architecture.
+	- C) It restricts the number of programming languages used in microservices.
+	- D) It doesn't support service discovery.
+
+### The Kubernetes Building Blocks:
+**Question:** What component in Kubernetes is responsible for managing and maintaining containers?
+	- A) Pods
+	- B) Services
+	- C) Ingress
+	- D) Deployments
+
+### How autoscaling in Kubernetes works:
+**Question:** Which factor triggers autoscaling of pods in Kubernetes?
+	- A) Memory usage
+	- B) Number of deployments
+	- C) CPU utilization
+	- D) Network bandwidth
+
+### Different kinds of Load Balancing options:
+**Question:** Which Kubernetes service type provides load balancing within a cluster using the round-robin algorithm?
+	- A) NodePort
+	- B) ClusterIP
+	- C) ExternalName
+	- D) LoadBalancer
+
+### How to write a YAML file for a Kubernetes object:
+**Question:** Which section of a Kubernetes YAML file specifies the desired state of the resource?
+	- A) metadata
+	- B) spec
+	- C) apiVersion
+	- D) kind
+
+### How the Kubernetes CLI works:
+**Question:**Which command is used to view the current nodes in a Kubernetes cluster?
+	- A) kubectl nodes
+	- B) kubectl get pods
+	- C) kubectl describe nodes
+	- D) kubectl cluster-info
+
+### How to set up Kubernetes with Docker Desktop:
+**Question:** Which feature in Docker Desktop allows users to easily enable Kubernetes?
+	- A) Container Registry
+	- B) Kubernetes Dashboard
+	- C) Docker Compose
+	- D) Kubernetes Settings
+
+### Persistent Volumes and Volume Claims and why they are needed:
+**Question:** In Kubernetes, what is the purpose of a PersistentVolumeClaim (PVC)?
+	- A) It defines storage classes for persistent volumes.
+	- B) It requests a persistent storage volume of a particular type and size.
+	- C) It creates a snapshot of a persistent volume.
+	- D) It manages access control for volumes.
+
+### Helm charts, how to install and use them:
+**Question:** What is the primary function of Helm in Kubernetes?
+	- A) Managing persistent volumes
+	- B) Creating and managing Kubernetes applications
+	- C) Setting up load balancers
+	- D) Configuring container registries
+
+### NodePorts and ClusterIP differences:
+**Question:** What is a key distinction between NodePorts and ClusterIPs in Kubernetes networking? 
+	- A) NodePorts provide access to pods from outside the cluster, while ClusterIPs are only internal. 
+	- B) NodePorts are used for intra-cluster communication, while ClusterIPs are for inter-cluster communication. 
+	- C) NodePorts offer higher security compared to ClusterIPs. 
+	- D) ClusterIPs are used exclusively for load balancing.
+
+### What Rancher is and why it is more useful than some other Dashboards:** Which statement best describes Rancher in Kubernetes ecosystem? - A) Rancher is a container orchestration tool similar to Kubernetes. - B) Rancher is a dashboard that simplifies cluster management and provides additional features like multi-cluster management and centralized authentication. - C) Rancher is a built-in Kubernetes service available only in specific cloud providers. - D) Rancher is a monitoring tool specifically designed for Kubernetes clusters.
+
+**12. The Kubernetes Workflow from Software creation to deployment:** Which phase of the Kubernetes workflow involves packaging an application, its dependencies, and metadata into a portable container image? - A) Deployment - B) Build - C) Testing - D) Monitoring
 # Answers
 ### What is a container, why do we need it?
 **Answer:** A) A container is a lightweight, portable, and isolated environment used to run applications, ensuring consistency across different computing environments.
