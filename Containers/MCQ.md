@@ -158,9 +158,19 @@
 	- C) NodePorts offer higher security compared to ClusterIPs. 
 	- D) ClusterIPs are used exclusively for load balancing.
 
-### What Rancher is and why it is more useful than some other Dashboards:** Which statement best describes Rancher in Kubernetes ecosystem? - A) Rancher is a container orchestration tool similar to Kubernetes. - B) Rancher is a dashboard that simplifies cluster management and provides additional features like multi-cluster management and centralized authentication. - C) Rancher is a built-in Kubernetes service available only in specific cloud providers. - D) Rancher is a monitoring tool specifically designed for Kubernetes clusters.
+### What Rancher is and why it is more useful than some other Dashboards:
+**Question:** Which statement best describes Rancher in Kubernetes ecosystem? 
+	- A) Rancher is a container orchestration tool similar to Kubernetes. 
+	- B) Rancher is a dashboard that simplifies cluster management and provides additional features like multi-cluster management and centralized authentication.
+	- C) Rancher is a built-in Kubernetes service available only in specific cloud providers. 
+	- D) Rancher is a monitoring tool specifically designed for Kubernetes clusters.
 
-**12. The Kubernetes Workflow from Software creation to deployment:** Which phase of the Kubernetes workflow involves packaging an application, its dependencies, and metadata into a portable container image? - A) Deployment - B) Build - C) Testing - D) Monitoring
+### The Kubernetes Workflow from Software creation to deployment:
+**Question:** Which phase of the Kubernetes workflow involves packaging an application, its dependencies, and metadata into a portable container image? 
+- A) Deployment 
+- B) Build 
+- C) Testing 
+- D) Monitoring
 # Answers
 ### What is a container, why do we need it?
 **Answer:** A) A container is a lightweight, portable, and isolated environment used to run applications, ensuring consistency across different computing environments.
@@ -203,3 +213,28 @@
 
 ### Fragments & extensions:
 **Answer:** D) To reuse common configurations across multiple Compose files
+
+### Why Kubernetes is useful for microservices:** Answer: A) It enables easier scaling and deployment of microservices across a cluster.
+
+### The Kubernetes Building Blocks:
+Answer: A) Pods
+### How autoscaling in Kubernetes works:
+Answer: C) CPU utilization
+### Different kinds of Load Balancing options:
+Answer: B) ClusterIP
+### How to write a YAML file for a Kubernetes object:
+Answer: B) spec
+### How the Kubernetes CLI works:
+Answer: C) kubectl describe nodes
+### How to set up Kubernetes with Docker Desktop:
+Answer: D) Kubernetes Settings
+### Persistent Volumes and Volume Claims and why they are needed:
+Answer: B) It requests a persistent storage volume of a particular type and size.
+### Helm charts, how to install and use them:
+Answer: B) Creating and managing Kubernetes applications
+### NodePorts and ClusterIP differences:
+Answer: A) NodePorts provide access to pods from outside the cluster, while ClusterIPs are only internal.
+### What Rancher is and why it is more useful than some other Dashboards:
+Answer: B) Rancher is a dashboard that simplifies cluster management and provides additional features like multi-cluster management and centralized authentication.
+### The Kubernetes Workflow from Software creation to deployment:
+Answer: B) Build
